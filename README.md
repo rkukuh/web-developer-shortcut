@@ -6,24 +6,20 @@ While other guidelines refers to so many resources that overwhelming for most of
 
 So now you can focus on learning instead of picking study subjects.
 
-# Fundamental
+# FUNDAMENTAL
 
-## HTML5
+## HTML
 
 ### Tutorial
-* [Basic HTML Tutorial by W3Schools](https://www.w3schools.com/html/default.asp)
-* [HTML5 Tutorial by HTML5Rocks](https://www.html5rocks.com/en/tutorials/)
-* [HTML5 Video Tutorial by thenewboston](https://www.youtube.com/playlist?list=PL081AC329706B2953)
+* [HTML Tutorial by W3Schools](https://www.w3schools.com/html/default.asp)
 
 ### Reference
-* [Can I Use](http://caniuse.com)
-* [HTML5 Demos & Examples](https://html5demos.com)
-* [How well does your browser support HTML5 ?](http://beta.html5test.com)
+* ?
 
 ### Others
 * __Tools__ : [W3C Developer Tools](http://w3c.github.io/developers/tools)
 
-## CSS3
+## CSS
 
 ### Tutorial
 * [CSS Tutorial by W3Schools](https://www.w3schools.com/css/default.asp)
@@ -53,9 +49,25 @@ So now you can focus on learning instead of picking study subjects.
 * __Tools__ : one
 * __Podcast__ : two
 
-# Nice to Know
+# ADVANCED
+
+## HTML5
+
+### Tutorial
+* [HTML5 Tutorial by HTML5Rocks](https://www.html5rocks.com/en/tutorials/)
+* [HTML5 Video Tutorial by thenewboston](https://www.youtube.com/playlist?list=PL081AC329706B2953)
+
+### Reference
+* [Can I Use](http://caniuse.com)
+* [HTML5 Demos & Examples](https://html5demos.com)
+* [How well does your browser support HTML5 ?](http://beta.html5test.com)
+
+# EXPERT
+
+blablabla...
+
+# NICE TO HAVE
 
 ## Certification
-
-* [Front-End Professional Certificate Program by W3C](https://www.edx.org/professional-certificate/front-end-web-developer-9)
 * [HTML Certification by W3Schools](https://www.w3schools.com/cert/cert_html_new.asp)
+* [Front-End Professional Certificate Program by W3C](https://www.edx.org/professional-certificate/front-end-web-developer-9)
