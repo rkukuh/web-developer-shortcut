@@ -114,8 +114,13 @@ So now you can focus on learning instead of picking study subjects.
 
 ## B.4 PHP
 
+### Developement Paradigm
+* OOP
+* Design Pattern
+
 ### Testing
-blablabla...
+* PHP Unit
+* Behat
 
 ## B.5 Development Tools
 
