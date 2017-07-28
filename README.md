@@ -78,7 +78,7 @@ blablabla...
 ## Future
 * [HTML 5.2](http://w3c.github.io/html)
 
-## Awesome Lists
+## Awesomeness
 * [Awesome HTML5](https://github.com/diegocard/awesome-html5)
 * [Awesome CSS](https://github.com/sotayamashita/awesome-css)
 * __Javascript__
