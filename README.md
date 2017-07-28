@@ -78,3 +78,6 @@ blablabla...
 
 ## Future
 * [HTML 5.2](http://w3c.github.io/html)
+
+## Awesome Lists
+* [Awesome HTML5](https://github.com/diegocard/awesome-html5)
