@@ -89,7 +89,12 @@ So now you can focus on learning instead of picking study subjects.
 * __Cheat Sheet__ : [HTML5 Cheat Sheet](http://cheatsheetworld.com/programming/html5-canvas-cheat-sheet/)
 * __Demo / Example__ : [HTML5 Demos & Examples](https://html5demos.com)
 
-## B.2 CSS3
+## B.2 CSS / CSS3
+
+### Frameworks
+* [Bootstrap](http://getbootstrap.com)
+* [Foundation](http://foundation.zurb.com)
+* [Material Design Lite by Google](https://getmdl.io)
 
 ### Prepocessor
 * SCSS
