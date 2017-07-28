@@ -46,7 +46,7 @@ So now you can focus on learning instead of picking study subjects.
 * [Basic CSS by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
 
 ### Reference
-* one
+* [CSS Coding Guide by Google](https://google.github.io/styleguide/htmlcssguide.html#CSS)
 * two
 
 ### Others
@@ -60,7 +60,7 @@ So now you can focus on learning instead of picking study subjects.
 * [Video Tutorial]
 
 ### Reference
-* one
+* [RSCSS - Reasonable Standard for CSS Stylesheet Structure](http://rscss.io)
 * two
 
 ### Others
@@ -97,8 +97,11 @@ So now you can focus on learning instead of picking study subjects.
 * [Material Design Lite by Google](https://getmdl.io)
 
 ### Prepocessor
-* SCSS
+* SCSS / SASS
 * LESS
+
+### Guidelines
+* [SASS Guideline](https://sass-guidelin.es)
 
 ## B.3 Javascript
 
