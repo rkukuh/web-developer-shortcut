@@ -8,7 +8,7 @@ So now you can focus on learning instead of picking study subjects.
 
 # FUNDAMENTAL
 
-## HTML5
+## HTML
 
 ### Tutorial
 * [Basic HTML by W3Schools](https://www.w3schools.com/html/default.asp)
@@ -16,7 +16,6 @@ So now you can focus on learning instead of picking study subjects.
 
 ### Reference
 * [How well does your browser support HTML5 ?](http://beta.html5test.com)
-* [HTML5 Cheat Sheet](http://cheatsheetworld.com/programming/html5-canvas-cheat-sheet/)
 
 ### Others
 * __Tools__ : [W3C Developer Tools](http://w3c.github.io/developers/tools)
@@ -24,9 +23,9 @@ So now you can focus on learning instead of picking study subjects.
 ## CSS
 
 ### Tutorial
-* [CSS Tutorial by W3Schools](https://www.w3schools.com/css/default.asp)
-* two
-* [Vide Tutorial]
+* [Basic CSS by W3Schools](https://www.w3schools.com/css/default.asp)
+* [Basic CSS by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
+* [Video Tutorial]
 
 ### Reference
 * one
@@ -39,9 +38,9 @@ So now you can focus on learning instead of picking study subjects.
 ## Javascript
 
 ### Tutorial
-* [Javascript Tutorial by W3Schools](https://www.w3schools.com/js/default.asp)
-* two
-* [Vide Tutorial]
+* [Basic Javascript by W3Schools](https://www.w3schools.com/js/default.asp)
+* [Basic Javascript by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Tutorials)
+* [Video Tutorial]
 
 ### Reference
 * one
@@ -61,8 +60,11 @@ So now you can focus on learning instead of picking study subjects.
 
 ### Reference
 * [Can I Use](http://caniuse.com)
-* [HTML5 Demos & Examples](https://html5demos.com)
 * [HTML5 Differences from HTML4](https://www.w3.org/TR/html5-diff)
+
+## Others
+* __Cheat Sheet__ : [HTML5 Cheat Sheet](http://cheatsheetworld.com/programming/html5-canvas-cheat-sheet/)
+* __Demo / Example__ : [HTML5 Demos & Examples](https://html5demos.com)
 
 # EXPERT
 
