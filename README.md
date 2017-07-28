@@ -39,6 +39,7 @@ So now you can focus on learning instead of picking study subjects.
 
 ### Others
 * __Checker / Validator__ : [W3C Developer Tools](http://w3c.github.io/developers/tools)
+* __Cheat Sheet__ : [HTML Cheat Sheet](https://hostingfacts.com/wp-content/uploads/2016/06/hf-html-cheat-sheet.pdf)
 
 ## A.2 CSS
 
@@ -59,11 +60,12 @@ So now you can focus on learning instead of picking study subjects.
 ### Tutorial
 * [Basic Javascript by W3Schools](https://www.w3schools.com/js/default.asp)
 * [Basic Javascript by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Tutorials)
-* [Video Tutorial]
+* [Javascript Video Tutorial by thenewboston](https://www.youtube.com/playlist?list=PL46F0A159EC02DF82)
 
-### Others
-* __Tools__ : one
-* __Podcast__ : two
+## Reference
+* one
+* two
+* three
 
 ## A.4 PHP
 
@@ -84,7 +86,7 @@ So now you can focus on learning instead of picking study subjects.
 * [HTML5 Differences from HTML4](https://www.w3.org/TR/html5-diff)
 
 ## Others
-* __Cheat Sheet__ : [HTML5 Cheat Sheet](http://cheatsheetworld.com/programming/html5-canvas-cheat-sheet/)
+* __Cheat Sheet__ : [HTML5 Cheat Sheet](https://websitesetup.org/HTML5-cheat-sheet.pdf)
 * __Demo / Example__ : [HTML5 Demos & Examples](https://html5demos.com)
 
 ## B.2 CSS / CSS3
@@ -105,8 +107,9 @@ So now you can focus on learning instead of picking study subjects.
 
 ### Libraries
 * jQuery
-* Karma
-* ...
+
+## Reference
+* ES2017
 
 ### Tools
 * Gulp
