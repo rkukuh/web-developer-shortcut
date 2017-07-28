@@ -11,11 +11,12 @@ So now you can focus on learning instead of picking study subjects.
 ## HTML5
 
 ### Tutorial
-* [HTML Tutorial by W3Schools](https://www.w3schools.com/html/default.asp)
-* [HTML5 Video Tutorial by thenewboston](https://www.youtube.com/playlist?list=PL081AC329706B2953)
+* [Basic HTML by W3Schools](https://www.w3schools.com/html/default.asp)
+* [Basic HTML by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
 ### Reference
 * [How well does your browser support HTML5 ?](http://beta.html5test.com)
+* [HTML5 Cheat Sheet](http://cheatsheetworld.com/programming/html5-canvas-cheat-sheet/)
 
 ### Others
 * __Tools__ : [W3C Developer Tools](http://w3c.github.io/developers/tools)
@@ -56,6 +57,7 @@ So now you can focus on learning instead of picking study subjects.
 
 ### Tutorial
 * [HTML5 Tutorial by HTML5Rocks](https://www.html5rocks.com/en/tutorials/)
+* [HTML5 Video Tutorial by thenewboston](https://www.youtube.com/playlist?list=PL081AC329706B2953)
 
 ### Reference
 * [Can I Use](http://caniuse.com)
