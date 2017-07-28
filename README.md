@@ -11,7 +11,7 @@ So now you can focus on learning instead of picking study subjects.
 * A. Fundamental
     * A.1 HTML
     * A.2 CSS
-    * A.3 [Javascript](https://github.com/rkukuh/web-developer-shortcut#fundamental-javascript)
+    * A.3 Javascript
     * A.4 PHP
 * B. Advanced
     * B.1 HTML5
@@ -26,9 +26,9 @@ So now you can focus on learning instead of picking study subjects.
     * C.4 Development Tools
 * D. Nice To Know
 
-# A. Fundamental [#](#fundamental)
+# A. Fundamental
 
-## A.1 HTML [#](#fundamental-html)
+## A.1 HTML
 
 ### Tutorial
 * [Basic HTML by W3Schools](https://www.w3schools.com/html/default.asp)
@@ -41,7 +41,7 @@ So now you can focus on learning instead of picking study subjects.
 * __Checker / Validator__ : [W3C Developer Tools](http://w3c.github.io/developers/tools)
 * __Cheat Sheet__ : [HTML Cheat Sheet](https://hostingfacts.com/wp-content/uploads/2016/06/hf-html-cheat-sheet.pdf)
 
-## A.2 CSS [#](#fundamental-css)
+## A.2 CSS
 
 ### Tutorial
 * [Basic CSS by W3Schools](https://www.w3schools.com/css/default.asp)
@@ -55,7 +55,7 @@ So now you can focus on learning instead of picking study subjects.
 ### Others
 * __Cheat Sheet__ : [CSS / CSS3 Cheat Sheet](https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf)
 
-## A.3 Javascript [#](#fundamental-javascript)
+## A.3 Javascript
 
 ### Tutorial
 * [Basic Javascript by W3Schools](https://www.w3schools.com/js/default.asp)
@@ -66,7 +66,7 @@ So now you can focus on learning instead of picking study subjects.
 * [Javascript Reference by DevDocs](http://devdocs.io/javascript/)
 * [Javascript Reference by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
-## A.4 PHP [#](#fundamental-php)
+## A.4 PHP
 
 ### Tutorial
 * one
