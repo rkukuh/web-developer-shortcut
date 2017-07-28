@@ -6,9 +6,9 @@ While other guidelines refers to so many resources that overwhelming for most of
 
 So now you can focus on learning instead of picking study subjects.
 
-# Fundamental
+# A. Fundamental
 
-## HTML
+## A.1 HTML
 
 ### Tutorial
 * [Basic HTML by W3Schools](https://www.w3schools.com/html/default.asp)
@@ -20,7 +20,7 @@ So now you can focus on learning instead of picking study subjects.
 ### Others
 * __Tools__ : [W3C Developer Tools](http://w3c.github.io/developers/tools)
 
-## CSS
+## A.2 CSS
 
 ### Tutorial
 * [Basic CSS by W3Schools](https://www.w3schools.com/css/default.asp)
@@ -35,7 +35,7 @@ So now you can focus on learning instead of picking study subjects.
 * __Blog__ : one
 * __Podcast__ : two
 
-## Javascript
+## A.3 Javascript
 
 ### Tutorial
 * [Basic Javascript by W3Schools](https://www.w3schools.com/js/default.asp)
@@ -50,9 +50,9 @@ So now you can focus on learning instead of picking study subjects.
 * __Tools__ : one
 * __Podcast__ : two
 
-# Advanced
+# B. Advanced
 
-## HTML5
+## B.1 HTML5
 
 ### Tutorial
 * [HTML5 Tutorial by HTML5Rocks](https://www.html5rocks.com/en/tutorials/)
@@ -66,11 +66,11 @@ So now you can focus on learning instead of picking study subjects.
 * __Cheat Sheet__ : [HTML5 Cheat Sheet](http://cheatsheetworld.com/programming/html5-canvas-cheat-sheet/)
 * __Demo / Example__ : [HTML5 Demos & Examples](https://html5demos.com)
 
-# Expert
+# C. Expert
 
 blablabla...
 
-# Nice To Know
+# D. Nice To Know
 
 ## Certification
 * [HTML Certification by W3Schools](https://www.w3schools.com/cert/cert_html_new.asp)
