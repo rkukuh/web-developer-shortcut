@@ -16,12 +16,12 @@ So now you can focus on learning instead of picking study subjects.
 * [Vide Tutorial]
 
 ### Reference
-* one
-* two
+* [Can I Use...?](http://caniuse.com)
+* [HTML5 Demos & Examples](https://html5demos.com)
+* [How well does your browser support HTML5 ?](http://beta.html5test.com)
 
 ### Others
-* __Open-Source Package__ : one
-* __Podcast__ : two
+* __Tools__ : [W3C Developer Tools](http://w3c.github.io/developers/tools)
 
 ## CSS3
 
@@ -52,3 +52,9 @@ So now you can focus on learning instead of picking study subjects.
 ### Others
 * __Tools__ : one
 * __Podcast__ : two
+
+# Nice to Know
+
+## Certification
+
+* [W3C Front-End Professional Certificate Program](https://www.edx.org/professional-certificate/front-end-web-developer-9)
