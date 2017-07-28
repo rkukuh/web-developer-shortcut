@@ -97,10 +97,14 @@ So now you can focus on learning instead of picking study subjects.
 
 ## B.3 Javascript
 
-### Libraries / Tools
+### Libraries
 * jQuery
 * Karma
 * ...
+
+### Tools
+* Gulp
+* Grunt
 
 ## B.4 PHP
 
@@ -110,10 +114,8 @@ blablabla...
 ## B.5 Development Tools
 
 ### Version Control
-* Git
-* Github
+* Git / Github
 * Smartgit
-* SourceTree
 * Bitbucket
 
 # C. Expert
