@@ -11,7 +11,7 @@ So now you can focus on learning instead of picking study subjects.
 * A. Fundamental
     * A.1 HTML
     * A.2 CSS
-    * A.3 [Javascript](#fundamental-javascript)
+    * A.3 [Javascript](https://github.com/rkukuh/web-developer-shortcut#fundamental-javascript)
     * A.4 PHP
 * B. Advanced
     * B.1 HTML5
@@ -55,7 +55,7 @@ So now you can focus on learning instead of picking study subjects.
 ### Others
 * __Cheat Sheet__ : [CSS / CSS3 Cheat Sheet](https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf)
 
-## A.3 Javascript [#](https://github.com/rkukuh/web-developer-shortcut#fundamental-javascript)
+## A.3 Javascript [#](#fundamental-javascript)
 
 ### Tutorial
 * [Basic Javascript by W3Schools](https://www.w3schools.com/js/default.asp)
