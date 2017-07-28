@@ -71,3 +71,7 @@ blablabla...
 ## Certification
 * [HTML Certification by W3Schools](https://www.w3schools.com/cert/cert_html_new.asp)
 * [Front-End Professional Certificate Program by W3C](https://www.edx.org/professional-certificate/front-end-web-developer-9)
+
+# NICE TO KNOW
+
+### [HTML 5.2](http://w3c.github.io/html)
