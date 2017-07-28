@@ -47,7 +47,8 @@ So now you can focus on learning instead of picking study subjects.
 
 ### Reference
 * [CSS Coding Guide by Google](https://google.github.io/styleguide/htmlcssguide.html#CSS)
-* two
+* [CSS Guide by @mdo (creator of Bootstrap)](http://codeguide.co/#css)
+* [RSCSS - Reasonable Standard for CSS Stylesheet Structure](http://rscss.io)
 
 ### Others
 * __Cheat Sheet__ : [CSS/CSS3 Cheat Sheet](https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf)
@@ -58,10 +59,6 @@ So now you can focus on learning instead of picking study subjects.
 * [Basic Javascript by W3Schools](https://www.w3schools.com/js/default.asp)
 * [Basic Javascript by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Tutorials)
 * [Video Tutorial]
-
-### Reference
-* [RSCSS - Reasonable Standard for CSS Stylesheet Structure](http://rscss.io)
-* two
 
 ### Others
 * __Tools__ : one
