@@ -8,13 +8,14 @@ So now you can focus on learning instead of picking study subjects.
 
 # FUNDAMENTAL
 
-## HTML
+## HTML5
 
 ### Tutorial
 * [HTML Tutorial by W3Schools](https://www.w3schools.com/html/default.asp)
+* [HTML5 Video Tutorial by thenewboston](https://www.youtube.com/playlist?list=PL081AC329706B2953)
 
 ### Reference
-* ?
+* [How well does your browser support HTML5 ?](http://beta.html5test.com)
 
 ### Others
 * __Tools__ : [W3C Developer Tools](http://w3c.github.io/developers/tools)
@@ -55,12 +56,11 @@ So now you can focus on learning instead of picking study subjects.
 
 ### Tutorial
 * [HTML5 Tutorial by HTML5Rocks](https://www.html5rocks.com/en/tutorials/)
-* [HTML5 Video Tutorial by thenewboston](https://www.youtube.com/playlist?list=PL081AC329706B2953)
 
 ### Reference
 * [Can I Use](http://caniuse.com)
 * [HTML5 Demos & Examples](https://html5demos.com)
-* [How well does your browser support HTML5 ?](http://beta.html5test.com)
+* [HTML5 Differences from HTML4](https://www.w3.org/TR/html5-diff)
 
 # EXPERT
 
