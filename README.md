@@ -13,7 +13,7 @@ So now you can focus on learning instead of picking study subjects.
 ### Tutorial
 * [Basic HTML Tutorial by W3Schools](https://www.w3schools.com/html/default.asp)
 * [HTML5 Tutorial by HTML5Rocks](https://www.html5rocks.com/en/tutorials/)
-* [Vide Tutorial]
+* [HTML5 Video Tutorial by thenewboston](https://www.youtube.com/playlist?list=PL081AC329706B2953)
 
 ### Reference
 * [Can I Use](http://caniuse.com)
