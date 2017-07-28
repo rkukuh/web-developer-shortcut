@@ -11,12 +11,12 @@ So now you can focus on learning instead of picking study subjects.
 ## HTML5
 
 ### Tutorial
-* [HTML Tutorial by W3Schools](https://www.w3schools.com/html/default.asp)
-* two
+* [Basic HTML Tutorial by W3Schools](https://www.w3schools.com/html/default.asp)
+* [HTML5 Tutorial by HTML5Rocks](https://www.html5rocks.com/en/tutorials/)
 * [Vide Tutorial]
 
 ### Reference
-* [Can I Use...?](http://caniuse.com)
+* [Can I Use](http://caniuse.com)
 * [HTML5 Demos & Examples](https://html5demos.com)
 * [How well does your browser support HTML5 ?](http://beta.html5test.com)
 
@@ -57,4 +57,5 @@ So now you can focus on learning instead of picking study subjects.
 
 ## Certification
 
-* [W3C Front-End Professional Certificate Program](https://www.edx.org/professional-certificate/front-end-web-developer-9)
+* [Front-End Professional Certificate Program by W3C](https://www.edx.org/professional-certificate/front-end-web-developer-9)
+* [HTML Certification by W3Schools](https://www.w3schools.com/cert/cert_html_new.asp)
