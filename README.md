@@ -11,7 +11,7 @@ So now you can focus on learning instead of picking study subjects.
 * A. Fundamental
     * A.1 HTML
     * A.2 CSS
-    * A.3 [Javascript](##a3-javascript)
+    * A.3 [Javascript](#a3-javascript)
     * A.4 PHP
 * B. Advanced
     * B.1 HTML5
