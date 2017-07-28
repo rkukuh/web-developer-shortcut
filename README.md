@@ -2,7 +2,7 @@
 
 Being a good web developer is a long journey. This guideline, hopefully, could become a shortcut for newcomers.  
 
-While other guidelines refers to so many resources that overwhelming for most of newbie, this one contains only 2 most-referenced per resources per subject.  
+While other guidelines refers to so many resources that overwhelming for most of newbie, this one contains only 2-3 most-referenced per resources per subject.  
 
 So now you can focus on learning instead of picking study subjects.
 
@@ -13,6 +13,7 @@ So now you can focus on learning instead of picking study subjects.
 ### Tutorial
 * [HTML Tutorial by W3Schools](https://www.w3schools.com/html/default.asp)
 * two
+* [Vide Tutorial]
 
 ### Reference
 * one
@@ -27,6 +28,7 @@ So now you can focus on learning instead of picking study subjects.
 ### Tutorial
 * [CSS Tutorial by W3Schools](https://www.w3schools.com/css/default.asp)
 * two
+* [Vide Tutorial]
 
 ### Reference
 * one
@@ -41,6 +43,7 @@ So now you can focus on learning instead of picking study subjects.
 ### Tutorial
 * [Javascript Tutorial by W3Schools](https://www.w3schools.com/js/default.asp)
 * two
+* [Vide Tutorial]
 
 ### Reference
 * one
