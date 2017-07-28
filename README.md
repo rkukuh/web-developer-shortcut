@@ -25,7 +25,6 @@ So now you can focus on learning instead of picking study subjects.
 ### Tutorial
 * [Basic CSS by W3Schools](https://www.w3schools.com/css/default.asp)
 * [Basic CSS by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
-* [Video Tutorial]
 
 ### Reference
 * one
@@ -81,3 +80,7 @@ blablabla...
 
 ## Awesome Lists
 * [Awesome HTML5](https://github.com/diegocard/awesome-html5)
+* [Awesome CSS](https://github.com/sotayamashita/awesome-css)
+* __Javascript__
+    * [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
+    * [Awesome Javascript Learning](https://github.com/micromata/awesome-javascript-learning)
