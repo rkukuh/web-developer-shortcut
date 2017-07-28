@@ -17,7 +17,7 @@ So now you can focus on learning instead of picking study subjects.
 
 ### Tutorial
 
-* one
+* [HTML Tutorial by W3Schools](https://www.w3schools.com/html/default.asp)
 * two
 
 ### Others
@@ -34,7 +34,7 @@ So now you can focus on learning instead of picking study subjects.
 
 ### Tutorial
 
-* one
+* [CSS Tutorial by W3Schools](https://www.w3schools.com/css/default.asp)
 * two
 
 ### Others
@@ -51,7 +51,7 @@ So now you can focus on learning instead of picking study subjects.
 
 ### Tutorial
 
-* one
+* [Javascript Tutorial by W3Schools](https://www.w3schools.com/js/default.asp)
 * two
 
 ### Others
