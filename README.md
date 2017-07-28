@@ -65,8 +65,45 @@ So now you can focus on learning instead of picking study subjects.
 * __Cheat Sheet__ : [HTML5 Cheat Sheet](http://cheatsheetworld.com/programming/html5-canvas-cheat-sheet/)
 * __Demo / Example__ : [HTML5 Demos & Examples](https://html5demos.com)
 
+## B.2 CSS3
+
+### Prepocessor
+* SCSS
+* LESS
+
+## B.3 Javascript
+
+### Libraries / Tools
+* jQuery
+* Karma
+* ...
+
+## B.4 PHP
+
+### Tutorial
+blablabla...
+
+## B.5 Development Tools
+
+blablabla...
+
 # C. Expert
 
+## C.1 Javascript
+
+### Frameworks
+* React by Facebook
+* Angular by Google
+* Vue
+
+## C.2 PHP
+
+### PHP Frameworks
+* Laravel
+* Symfony
+* Zend Framework
+
+## C.3 Development Tools
 blablabla...
 
 # D. Nice To Know
