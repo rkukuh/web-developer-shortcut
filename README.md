@@ -15,14 +15,15 @@ So now you can focus on learning instead of picking study subjects.
     * A.4 PHP
 * B. Advanced
     * B.1 HTML5
-    * B.2 CSS3
+    * B.2 CSS / CSS3
     * B.3 Javascript
     * B.4 PHP
     * B.5 Development Tools
 * C. Expert
-    * C.1 Javascript
-    * C.2 PHP
-    * C.3 Development Tools
+    * C.1 CSS / CSS3
+    * C.2 Javascript
+    * C.3 PHP
+    * C.4 Development Tools
 * D. Nice To Know
 
 # A. Fundamental
@@ -88,19 +89,17 @@ So now you can focus on learning instead of picking study subjects.
 
 ## B.2 CSS / CSS3
 
+### Tutorial
+* [CSS3 Tutorial by W3Schools](https://www.w3schools.com/css/css3_intro.asp)
+
 ### UI Frameworks
 * [Bootstrap](http://getbootstrap.com)
 * [Foundation](http://foundation.zurb.com)
 * [Material Design Lite by Google](https://getmdl.io)
 
-### Prepocessor
-* [SASS](http://sass-lang.com)
-* [PostCSS](http://postcss.org)
-* [LESS](http://lesscss.org)
-
 ### Reference
-* [SASS Guideline](https://sass-guidelin.es)
 * [You Might Not Need JS](http://youmightnotneedjs.com)
+* [CSS3 Reference by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
 
 ## B.3 Javascript
 
@@ -127,21 +126,31 @@ blablabla...
 
 # C. Expert
 
-## C.1 Javascript
+## C.1 CSS / CSS3
+
+### Prepocessor
+* [SASS](http://sass-lang.com)
+* [PostCSS](http://postcss.org)
+* [LESS](http://lesscss.org)
+
+### Reference
+* [SASS Guideline](https://sass-guidelin.es)
+
+## C.2 Javascript
 
 ### Frameworks
 * React by Facebook
 * Angular by Google
 * Vue
 
-## C.2 PHP
+## C.3 PHP
 
 ### PHP Frameworks
 * Laravel
 * Symfony
 * Zend Framework
 
-## C.3 Development Tools
+## C.4 Development Tools
 
 ### Continuous Integration
 * Travis CI
