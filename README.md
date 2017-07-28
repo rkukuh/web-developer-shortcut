@@ -6,7 +6,7 @@ While other guidelines refers to so many resources that overwhelming for most of
 
 So now you can focus on learning instead of picking study subjects.
 
-# FUNDAMENTAL
+# Fundamental
 
 ## HTML
 
@@ -50,7 +50,7 @@ So now you can focus on learning instead of picking study subjects.
 * __Tools__ : one
 * __Podcast__ : two
 
-# ADVANCED
+# Advanced
 
 ## HTML5
 
@@ -66,16 +66,15 @@ So now you can focus on learning instead of picking study subjects.
 * __Cheat Sheet__ : [HTML5 Cheat Sheet](http://cheatsheetworld.com/programming/html5-canvas-cheat-sheet/)
 * __Demo / Example__ : [HTML5 Demos & Examples](https://html5demos.com)
 
-# EXPERT
+# Expert
 
 blablabla...
 
-# NICE TO HAVE
+# Nice To Know
 
 ## Certification
 * [HTML Certification by W3Schools](https://www.w3schools.com/cert/cert_html_new.asp)
 * [Front-End Professional Certificate Program by W3C](https://www.edx.org/professional-certificate/front-end-web-developer-9)
 
-# NICE TO KNOW
-
-### [HTML 5.2](http://w3c.github.io/html)
+## Future
+* [HTML 5.2](http://w3c.github.io/html)
