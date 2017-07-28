@@ -1,8 +1,10 @@
 # Web Developer Shortcut
 
-Being a good web developer is a long journey. This guideline, hopefully, become a shortcut for newcomers.  
+Being a good web developer is a long journey. This guideline, hopefully, could become a shortcut for newcomers.  
 
-While other guidelines refers to so many resources that overwhelming for most of newbie, this one contains only 2 most-referenced categorized resources per subject. So now you can focus on learning instead of picking study subjects.
+While other guidelines refers to so many resources that overwhelming for most of newbie, this one contains only 2 most-referenced per resources per subject.  
+
+So now you can focus on learning instead of picking study subjects.
 
 # Fundamental
 
