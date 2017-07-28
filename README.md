@@ -8,7 +8,7 @@ While other guidelines refers to so many resources that overwhelming for most of
 
 ## HTML5
 
-### References
+### Reference
 
 * one
 * two
@@ -25,7 +25,7 @@ While other guidelines refers to so many resources that overwhelming for most of
 
 ## CSS3
 
-### References
+### Reference
 
 * one
 * two
@@ -42,7 +42,7 @@ While other guidelines refers to so many resources that overwhelming for most of
 
 ## Javascript
 
-### References
+### Reference
 
 * one
 * two
