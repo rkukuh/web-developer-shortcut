@@ -49,6 +49,12 @@ So now you can focus on learning instead of picking study subjects.
 * __Tools__ : one
 * __Podcast__ : two
 
+## A.4 PHP
+
+### Tutorial
+* one
+* two
+
 # B. Advanced
 
 ## B.1 HTML5
@@ -80,12 +86,17 @@ So now you can focus on learning instead of picking study subjects.
 
 ## B.4 PHP
 
-### Tutorial
+### Testing
 blablabla...
 
 ## B.5 Development Tools
 
-blablabla...
+### Version Control
+* Git
+* Github
+* Smartgit
+* SourceTree
+* Bitbucket
 
 # C. Expert
 
@@ -104,7 +115,9 @@ blablabla...
 * Zend Framework
 
 ## C.3 Development Tools
-blablabla...
+
+### Continuous Integration
+* Travis CI
 
 # D. Nice To Know
 
