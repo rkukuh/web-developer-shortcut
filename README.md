@@ -37,7 +37,7 @@ So now you can focus on learning instead of picking study subjects.
 * [How well does your browser support HTML5 ?](http://beta.html5test.com)
 
 ### Others
-* __Tools__ : [W3C Developer Tools](http://w3c.github.io/developers/tools)
+* __Checker / Validator__ : [W3C Developer Tools](http://w3c.github.io/developers/tools)
 
 ## A.2 CSS
 
