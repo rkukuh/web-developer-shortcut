@@ -2,7 +2,7 @@
 
 Being a good web developer is a long journey. This guideline, hopefully, could become a shortcut for newcomers.  
 
-While other guidelines refers to so many resources that overwhelming for most of newbie, this one contains at most 3 most-referenced resources per study source.  
+While other guidelines refers to so many resources that overwhelming for most of newbie, this one contains at most 3 most-referenced resources per study category per subject.  
 
 So now you can focus on learning instead of picking study subjects.
 
@@ -31,8 +31,7 @@ So now you can focus on learning instead of picking study subjects.
 * two
 
 ### Others
-* __Blog__ : one
-* __Podcast__ : two
+* __Cheat Sheet__ : [CSS/CSS3 Cheat Sheet](https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf)
 
 ## A.3 Javascript
 
