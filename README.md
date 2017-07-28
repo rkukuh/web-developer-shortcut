@@ -2,7 +2,7 @@
 
 Being a good web developer is a long journey. This guideline, hopefully, could become a shortcut for newcomers.  
 
-While other guidelines refers to so many resources that overwhelming for most of newbie, this one contains only 2-3 most-referenced per resources per subject.  
+While other guidelines refers to so many resources that overwhelming for most of newbie, this one contains at most 3 most-referenced resources per study source.  
 
 So now you can focus on learning instead of picking study subjects.
 
