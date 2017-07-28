@@ -9,18 +9,18 @@ So now you can focus on learning instead of picking study subjects.
 ## Table of Content
 
 * A. Fundamental
-    * A.1 HTML
-    * A.2 CSS
+    * A.1 HTML5
+    * A.2 CSS3
     * A.3 [Javascript](#a3-javascript)
     * A.4 PHP
 * B. Advanced
     * B.1 HTML5
-    * B.2 CSS / CSS3
+    * B.2 CSS3
     * B.3 Javascript
     * B.4 PHP
     * B.5 Development Tools
 * C. Expert
-    * C.1 CSS / CSS3
+    * C.1 CSS3
     * C.2 Javascript
     * C.3 PHP
     * C.4 Development Tools
@@ -28,7 +28,7 @@ So now you can focus on learning instead of picking study subjects.
 
 # A. Fundamental
 
-## A.1 HTML
+## A.1 HTML5
 
 ### Tutorial
 * [Basic HTML by W3Schools](https://www.w3schools.com/html/default.asp)
@@ -41,7 +41,7 @@ So now you can focus on learning instead of picking study subjects.
 * __Checker / Validator__ : [W3C Developer Tools](http://w3c.github.io/developers/tools)
 * __Cheat Sheet__ : [HTML Cheat Sheet](https://hostingfacts.com/wp-content/uploads/2016/06/hf-html-cheat-sheet.pdf)
 
-## A.2 CSS
+## A.2 CSS3
 
 ### Tutorial
 * [Basic CSS by W3Schools](https://www.w3schools.com/css/default.asp)
@@ -88,7 +88,7 @@ So now you can focus on learning instead of picking study subjects.
 * __Cheat Sheet__ : [HTML5 Cheat Sheet](https://websitesetup.org/HTML5-cheat-sheet.pdf)
 * __Demo / Example__ : [HTML5 Demos & Examples](https://html5demos.com)
 
-## B.2 CSS / CSS3
+## B.2 CSS3
 
 ### Tutorial
 * [CSS3 Tutorial by W3Schools](https://www.w3schools.com/css/css3_intro.asp)
@@ -137,7 +137,7 @@ So now you can focus on learning instead of picking study subjects.
 
 # C. Expert
 
-## C.1 CSS / CSS3
+## C.1 CSS3
 
 ### Prepocessor
 * [SASS](http://sass-lang.com)
