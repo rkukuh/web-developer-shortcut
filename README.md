@@ -59,13 +59,12 @@ So now you can focus on learning instead of picking study subjects.
 
 ### Tutorial
 * [Basic Javascript by W3Schools](https://www.w3schools.com/js/default.asp)
-* [Basic Javascript by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Tutorials)
+* [Basic Javascript by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Javascript Video Tutorial by thenewboston](https://www.youtube.com/playlist?list=PL46F0A159EC02DF82)
 
 ## Reference
-* one
-* two
-* three
+* [Javascript Reference by DevDocs](http://devdocs.io/javascript/)
+* [Javascript Reference by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
 ## A.4 PHP
 
@@ -104,6 +103,10 @@ So now you can focus on learning instead of picking study subjects.
 * [CSS3 Reference by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
 
 ## B.3 Javascript
+
+### Tutorial
+* [JS Design Pattern by Oddy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [You Dont Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
 
 ### Libraries
 * jQuery
