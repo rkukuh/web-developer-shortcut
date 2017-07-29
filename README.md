@@ -31,15 +31,15 @@ So now you can focus on learning instead of picking similiar study subjects.
 ## A.1 HTML5
 
 ### Tutorial
-- [x] _Pick one only, then start practicing_
+- _Pick one only, then start practicing_
 - [ ] [Basic HTML by W3Schools](https://www.w3schools.com/html/default.asp)
 - [ ] [Basic HTML by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
 ### Reference
 * [How well does your browser support HTML5 ?](http://beta.html5test.com)
 
-### Others
-* __Checker / Validator__ : [W3C Developer Tools](http://w3c.github.io/developers/tools)
+### Other
+* __Validator__ : [W3C Developer Tools](http://w3c.github.io/developers/tools)
 * __Cheat Sheet__ : [HTML Cheat Sheet](https://hostingfacts.com/wp-content/uploads/2016/06/hf-html-cheat-sheet.pdf)
 
 ## A.2 CSS3
@@ -55,7 +55,7 @@ So now you can focus on learning instead of picking similiar study subjects.
 - [ ] [CSS Guide by @mdo (creator of Bootstrap)](http://codeguide.co/#css)
 - [ ] [RSCSS - Reasonable Standard for CSS Stylesheet Structure](http://rscss.io)
 
-### Others
+### Other
 * __Cheat Sheet__ : [CSS / CSS3 Cheat Sheet](https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf)
 
 ## A.3 Javascript
@@ -66,8 +66,8 @@ So now you can focus on learning instead of picking similiar study subjects.
 * [Javascript Video Tutorial by thenewboston](https://www.youtube.com/playlist?list=PL46F0A159EC02DF82)
 
 ## Reference
-* [Javascript Reference by DevDocs](http://devdocs.io/javascript/)
-* [Javascript Reference by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+* [JS Reference by DevDocs](http://devdocs.io/javascript/)
+* [JS Reference by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
 ## A.4 PHP
 
@@ -87,9 +87,9 @@ So now you can focus on learning instead of picking similiar study subjects.
 * [Can I Use](http://caniuse.com)
 * [HTML5 Differences from HTML4](https://www.w3.org/TR/html5-diff)
 
-## Others
+## Other
 * __Cheat Sheet__ : [HTML5 Cheat Sheet](https://websitesetup.org/HTML5-cheat-sheet.pdf)
-* __Demo / Example__ : [HTML5 Demos & Examples](https://html5demos.com)
+* __Example__ : [HTML5 Demos & Examples](https://html5demos.com)
 
 ## B.2 CSS3
 
@@ -179,8 +179,8 @@ So now you can focus on learning instead of picking similiar study subjects.
 * [HTML 5.2](http://w3c.github.io/html)
 
 ## Awesomeness
-* [Awesome HTML5](https://github.com/diegocard/awesome-html5)
-* [Awesome CSS](https://github.com/sotayamashita/awesome-css)
+* [HTML5](https://github.com/diegocard/awesome-html5)
+* [CSS / CSS3](https://github.com/sotayamashita/awesome-css)
 * __Javascript__
-    * [Awesome Javascript](https://github.com/sorrycc/awesome-javascript)
-    * [Awesome Javascript Learning](https://github.com/micromata/awesome-javascript-learning)
+    * [Javascript Learning](https://github.com/micromata/awesome-javascript-learning)
+    * [Javascript Resources](https://github.com/sorrycc/awesome-javascript)
