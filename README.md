@@ -4,7 +4,7 @@ Being a great web developer is a long journey. This guideline, hopefully, could 
 
 While other guide refers to so many resources that overwhelming for most of newbie, this one contains at most 3 most-referenced resources per study category per subject.  
 
-So now you can focus on learning instead of picking similiar study subjects.
+So now you can focus on learning instead of picking study subjects.
 
 ## Table of Content
 
@@ -16,12 +16,12 @@ So now you can focus on learning instead of picking similiar study subjects.
 >     * A.2 [CSS3](#a2-css3)
 >     * A.3 [Javascript](#a3-javascript)
 >     * A.4 [PHP](#a4-php)
-> * B. Advanced
->     * B.1 HTML5
->     * B.2 CSS3
->     * B.3 Javascript
->     * B.4 PHP
->     * B.5 Development Tools
+> * B. [Advanced](#b-advanced)
+>     * B.1 [HTML5](#b1-html5)
+>     * B.2 [CSS3](#b2-css3)
+>     * B.3 [Javascript](#b3-javascript)
+>     * B.4 [PHP](#b4-php)
+>     * B.5 [Development Tools](#b5-development-tools)
 > * C. Expert
 >     * C.1 CSS3
 >     * C.2 Javascript
@@ -134,7 +134,7 @@ _Learn them all_
 ### Libraries
 * jQuery
 
-## Reference
+### Reference
 * ES2017
 
 ### Tools
