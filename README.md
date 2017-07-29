@@ -8,11 +8,11 @@ So now you can focus on learning instead of picking study subjects.
 
 ## Table of Content
 
-* A. Fundamental
-    * A.1 HTML5
-    * A.2 CSS3
+* A. [Fundamental](#a-fundamental)
+    * A.1 [HTML5](#a1-html5)
+    * A.2 [CSS3](#a2-css3)
     * A.3 [Javascript](#a3-javascript)
-    * A.4 PHP
+    * A.4 [PHP](#a4-php)
 * B. Advanced
     * B.1 HTML5
     * B.2 CSS3
