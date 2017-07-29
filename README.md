@@ -50,7 +50,7 @@ So now you can focus on learning instead of picking similiar study subjects.
 - [ ] [Basic CSS by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
 
 ### Guideline
-- _Pick one only, then start practicing_
+- _Pick one only, then start obeying_
 - [ ] [CSS Coding Guide by Google](https://google.github.io/styleguide/htmlcssguide.html#CSS)
 - [ ] [CSS Guide by @mdo (creator of Bootstrap)](http://codeguide.co/#css)
 - [ ] [RSCSS - Reasonable Standard for CSS Stylesheet Structure](http://rscss.io)
@@ -61,13 +61,15 @@ So now you can focus on learning instead of picking similiar study subjects.
 ## A.3 Javascript
 
 ### Tutorial
-* [Basic Javascript by W3Schools](https://www.w3schools.com/js/default.asp)
-* [Basic Javascript by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [Javascript Video Tutorial by thenewboston](https://www.youtube.com/playlist?list=PL46F0A159EC02DF82)
+- _Pick one only, then start practicing_
+- [ ] [Basic Javascript by W3Schools](https://www.w3schools.com/js/default.asp)
+- [ ] [Basic Javascript by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [ ] [Javascript Video Tutorial by thenewboston](https://www.youtube.com/playlist?list=PL46F0A159EC02DF82)
 
 ## Reference
-* [JS Reference by DevDocs](http://devdocs.io/javascript/)
-* [JS Reference by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+- _Pick one only, they are offer similiar content_
+- [ ] [JS Reference by DevDocs](http://devdocs.io/javascript/)
+- [ ] [JS Reference by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
 ## A.4 PHP
 
