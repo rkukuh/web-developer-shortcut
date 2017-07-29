@@ -36,27 +36,27 @@ So now you can focus on learning instead of picking similiar study subjects.
 - [ ] [Basic HTML by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
 ### Reference
-* [How well does your browser support HTML5 ?](http://beta.html5test.com)
+[HTML Cheat Sheet](https://hostingfacts.com/wp-content/uploads/2016/06/hf-html-cheat-sheet.pdf)
 
 ### Other
 * __Validator__ : [W3C Developer Tools](http://w3c.github.io/developers/tools)
-* __Cheat Sheet__ : [HTML Cheat Sheet](https://hostingfacts.com/wp-content/uploads/2016/06/hf-html-cheat-sheet.pdf)
+* __Tool__ : [How well does your browser support HTML5 ?](http://beta.html5test.com)
 
 ## A.2 CSS3
 
 ### Tutorial
-- [x] _Pick one only, then start practicing_
+- _Pick one only, then start practicing_
 - [ ] [Basic CSS by W3Schools](https://www.w3schools.com/css/default.asp)
 - [ ] [Basic CSS by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
 
 ### Guideline
-- [x] _Pick one only, then start practicing_
+- _Pick one only, then start practicing_
 - [ ] [CSS Coding Guide by Google](https://google.github.io/styleguide/htmlcssguide.html#CSS)
 - [ ] [CSS Guide by @mdo (creator of Bootstrap)](http://codeguide.co/#css)
 - [ ] [RSCSS - Reasonable Standard for CSS Stylesheet Structure](http://rscss.io)
 
-### Other
-* __Cheat Sheet__ : [CSS / CSS3 Cheat Sheet](https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf)
+### Reference
+[CSS / CSS3 Cheat Sheet](https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf)
 
 ## A.3 Javascript
 
