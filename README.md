@@ -4,7 +4,7 @@ Being a great web developer is a long journey. This guideline, hopefully, could 
 
 While other guidelines refers to so many resources that overwhelming for most of newbie, this one contains at most 3 most-referenced resources per study category per subject.  
 
-So now you can focus on learning instead of picking study subjects.
+So now you can focus on learning instead of picking similiar study subjects.
 
 ## Table of Content
 
@@ -31,7 +31,7 @@ So now you can focus on learning instead of picking study subjects.
 ## A.1 HTML5
 
 ### Tutorial
-<small>✅ Pick one</small>
+- [x] _Pick one only, then start practicing_
 - [ ] [Basic HTML by W3Schools](https://www.w3schools.com/html/default.asp)
 - [ ] [Basic HTML by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
@@ -45,12 +45,12 @@ So now you can focus on learning instead of picking study subjects.
 ## A.2 CSS3
 
 ### Tutorial
-<small>_Pick one_</small>
+- [x] _Pick one only, then start practicing_
 - [ ] [Basic CSS by W3Schools](https://www.w3schools.com/css/default.asp)
 - [ ] [Basic CSS by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
 
 ### Guideline
-<small>_Pick one_</small>
+- [x] _Pick one only, then start practicing_
 - [ ] [CSS Coding Guide by Google](https://google.github.io/styleguide/htmlcssguide.html#CSS)
 - [ ] [CSS Guide by @mdo (creator of Bootstrap)](http://codeguide.co/#css)
 - [ ] [RSCSS - Reasonable Standard for CSS Stylesheet Structure](http://rscss.io)
