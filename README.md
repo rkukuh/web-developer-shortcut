@@ -63,8 +63,8 @@ _Pick one, then start obeying_
 ### Tutorial
 _Pick one, then start practicing_
 * [Basic Javascript by W3Schools](https://www.w3schools.com/js/default.asp)
-* [Basic Javascript by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Javascript Video Tutorial by thenewboston](https://www.youtube.com/playlist?list=PL46F0A159EC02DF82)
+* [Basic Javascript by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Reference
 * [JS Cheat Sheet](https://www.cheatography.com/davechild/cheat-sheets/javascript/pdf)
@@ -79,9 +79,9 @@ _Pick one, then start practicing_
 * [PHP Video Tutorial by thenewboston](https://www.youtube.com/playlist?list=PL442FA2C127377F07)
 
 ### Reference
-* [Official PHP Docs](http://php.net/manual/en)
-* [PHP Cheat Sheet](https://www.cheatography.com/davechild/cheat-sheets/php/pdf)
-* [PHP The Right Way](http://www.phptherightway.com)
+* __Official Docs__ : [PHP Docs](http://php.net/manual/en)
+* __Guideline__ : [PHP The Right Way](http://www.phptherightway.com)
+* __Cheat Sheet__ : [PHP Cheat Sheet](https://www.cheatography.com/davechild/cheat-sheets/php/pdf)
 
 ### Other
 * __Packages__ : [The PHP League](https://thephpleague.com)
@@ -91,12 +91,13 @@ _Pick one, then start practicing_
 ## B.1 HTML5
 
 ### Tutorial
+_Pick one first, practicing, then continue to the other_
 * [HTML5 Tutorial by HTML5Rocks](https://www.html5rocks.com/en/tutorials/)
 * [HTML5 Video Tutorial by thenewboston](https://www.youtube.com/playlist?list=PL081AC329706B2953)
 
 ### Reference
 * [Can I Use](http://caniuse.com)
-* [HTML5 Differences from HTML4](https://www.w3.org/TR/html5-diff)
+* [HTML5 vs HTML4 by W3C](https://www.w3.org/TR/html5-diff)
 
 ## Other
 * __Cheat Sheet__ : [HTML5 Cheat Sheet](https://websitesetup.org/HTML5-cheat-sheet.pdf)
@@ -105,12 +106,13 @@ _Pick one, then start practicing_
 ## B.2 CSS3
 
 ### Tutorial
-* [CSS3 Tutorial by W3Schools](https://www.w3schools.com/css/css3_intro.asp)
+[CSS3 Tutorial by W3Schools](https://www.w3schools.com/css/css3_intro.asp)
 
 ### UI Frameworks
+_Mastering only one first, then you can continue to learn the others_
 * [Bootstrap](http://getbootstrap.com)
 * [Foundation](http://foundation.zurb.com)
-* [Material Design Lite by Google](https://getmdl.io)
+* [Material Design by Google](https://getmdl.io)
 
 ### Reference
 * [You Might Not Need JS](http://youmightnotneedjs.com)
@@ -119,9 +121,10 @@ _Pick one, then start practicing_
 ## B.3 Javascript
 
 ### Tutorial
-* [JS Design Pattern by Oddy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+_Learn them all_
 * [You Dont Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
 * [ES2015 Video Tutorial by Laracast](https://laracasts.com/series/es6-cliffsnotes)
+* [JS Design Pattern by Oddy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ### Libraries
 * jQuery
