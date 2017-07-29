@@ -74,8 +74,9 @@ So now you can focus on learning instead of picking similiar study subjects.
 ## A.4 PHP
 
 ### Tutorial
-* one
-* two
+- _Pick one only, then start practicing_
+- [ ] [PHP Video Tutorial by thenewboston](https://www.youtube.com/playlist?list=PL442FA2C127377F07)
+- [ ] [PHP Video Tutorial by Laracast](https://laracasts.com/skills/php)
 
 ### Reference
 * [Official PHP Docs](http://php.net/manual/en)
@@ -116,6 +117,7 @@ So now you can focus on learning instead of picking similiar study subjects.
 ### Tutorial
 * [JS Design Pattern by Oddy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [You Dont Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
+* [ES2015 Video Tutorial by Laracast](https://laracasts.com/series/es6-cliffsnotes)
 
 ### Libraries
 * jQuery
