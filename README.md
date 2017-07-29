@@ -75,12 +75,16 @@ _Pick one, then start practicing_
 
 ### Tutorial
 _Pick one, then start practicing_
-* [PHP Video Tutorial by thenewboston](https://www.youtube.com/playlist?list=PL442FA2C127377F07)
 * [PHP Video Tutorial by Laracast](https://laracasts.com/skills/php)
+* [PHP Video Tutorial by thenewboston](https://www.youtube.com/playlist?list=PL442FA2C127377F07)
 
 ### Reference
 * [Official PHP Docs](http://php.net/manual/en)
 * [PHP Cheat Sheet](https://www.cheatography.com/davechild/cheat-sheets/php/pdf)
+* [PHP The Right Way](http://www.phptherightway.com)
+
+### Other
+* __Packages__ : [The PHP League](https://thephpleague.com)
 
 # B. Advanced
 
@@ -183,12 +187,13 @@ _Pick one, then start practicing_
 * [HTML Certification by W3Schools](https://www.w3schools.com/cert/cert_html_new.asp)
 * [Front-End Professional Certificate Program by W3C](https://www.edx.org/professional-certificate/front-end-web-developer-9)
 
-## Future
-* [HTML 5.2](http://w3c.github.io/html)
-
-## Awesomeness
+## Curated Lists
 * [HTML5](https://github.com/diegocard/awesome-html5)
 * [CSS / CSS3](https://github.com/sotayamashita/awesome-css)
 * __Javascript__
-    * [Javascript Learning](https://github.com/micromata/awesome-javascript-learning)
-    * [Javascript Resources](https://github.com/sorrycc/awesome-javascript)
+    * [Learning](https://github.com/micromata/awesome-javascript-learning)
+    * [Resources](https://github.com/sorrycc/awesome-javascript)
+* [PHP](https://github.com/ziadoz/awesome-php)
+
+## Future
+* [HTML 5.2](http://w3c.github.io/html)
