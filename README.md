@@ -105,7 +105,7 @@ _Pick one first, practicing, then continue to the other_
 * [Can I Use](http://caniuse.com)
 * [HTML5 vs HTML4 by W3C](https://www.w3.org/TR/html5-diff)
 
-## Other
+### Other
 * __Cheat Sheet__ : [HTML5 Cheat Sheet](https://websitesetup.org/HTML5-cheat-sheet.pdf)
 * __Example__ : [HTML5 Demos & Examples](https://html5demos.com)
 
