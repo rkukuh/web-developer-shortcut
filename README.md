@@ -49,10 +49,11 @@ So now you can focus on learning instead of picking study subjects.
 - [ ] [Basic CSS by W3Schools](https://www.w3schools.com/css/default.asp)
 - [ ] [Basic CSS by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
 
-### Reference
-* [CSS Coding Guide by Google](https://google.github.io/styleguide/htmlcssguide.html#CSS)
-* [CSS Guide by @mdo (creator of Bootstrap)](http://codeguide.co/#css)
-* [RSCSS - Reasonable Standard for CSS Stylesheet Structure](http://rscss.io)
+### Guideline
+<small>_Pick one_</small>
+- [ ] [CSS Coding Guide by Google](https://google.github.io/styleguide/htmlcssguide.html#CSS)
+- [ ] [CSS Guide by @mdo (creator of Bootstrap)](http://codeguide.co/#css)
+- [ ] [RSCSS - Reasonable Standard for CSS Stylesheet Structure](http://rscss.io)
 
 ### Others
 * __Cheat Sheet__ : [CSS / CSS3 Cheat Sheet](https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf)
