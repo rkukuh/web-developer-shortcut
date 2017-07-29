@@ -146,9 +146,10 @@ _Mastering one at a time, they offers similiar goals_
 
 ## B.4 PHP
 
-### Paradigm
-* OOP
-* Design Pattern
+### Object-Oriented Programming
+* [OOP by Official PHP Docs](http://php.net/manual/en/language.oop5.php)
+* [OOP by PHPEnthusiast](http://phpenthusiast.com/object-oriented-php-tutorials)
+* [OOP by Codecademy](https://www.codecademy.com/courses/web-beginner-en-bH5s3/0/1)
 
 ### Testing
 * [PHP Unit](https://phpunit.de)
@@ -186,6 +187,9 @@ _Mastering one at a time, then you can continue to learn the others_
 * [Vue](https://vuejs.org)
 
 ## C.3 PHP
+
+### Paradigm
+* [Design Patterns](https://github.com/domnikl/DesignPatternsPHP)
 
 ### Framework
 _Mastering one at a time, then you can continue to learn the others_
