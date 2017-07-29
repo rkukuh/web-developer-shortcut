@@ -31,7 +31,7 @@ So now you can focus on learning instead of picking similiar study subjects.
 ## A.1 HTML5
 
 ### Tutorial
-_Pick one only, then start practicing_
+    _Pick one, then start practicing_
 * [Basic HTML by W3Schools](https://www.w3schools.com/html/default.asp)
 * [Basic HTML by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
@@ -45,15 +45,15 @@ _Pick one only, then start practicing_
 ## A.2 CSS3
 
 ### Tutorial
-- _Pick one only, then start practicing_
-- [ ] [Basic CSS by W3Schools](https://www.w3schools.com/css/default.asp)
-- [ ] [Basic CSS by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
+_Pick one, then start practicing_
+* [Basic CSS by W3Schools](https://www.w3schools.com/css/default.asp)
+* [Basic CSS by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
 
 ### Guideline
-- _Pick one only, then start obeying_
-- [ ] [CSS Coding Guide by Google](https://google.github.io/styleguide/htmlcssguide.html#CSS)
-- [ ] [CSS Guide by @mdo (creator of Bootstrap)](http://codeguide.co/#css)
-- [ ] [RSCSS - Reasonable Standard for CSS Stylesheet Structure](http://rscss.io)
+_Pick one, then start obeying_
+* [CSS Coding Guide by Google](https://google.github.io/styleguide/htmlcssguide.html#CSS)
+* [CSS Guide by @mdo (creator of Bootstrap)](http://codeguide.co/#css)
+* [RSCSS - Reasonable Standard for CSS Stylesheet Structure](http://rscss.io)
 
 ### Reference
 [CSS / CSS3 Cheat Sheet](https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf)
@@ -61,10 +61,10 @@ _Pick one only, then start practicing_
 ## A.3 Javascript
 
 ### Tutorial
-- _Pick one only, then start practicing_
-- [ ] [Basic Javascript by W3Schools](https://www.w3schools.com/js/default.asp)
-- [ ] [Basic Javascript by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [ ] [Javascript Video Tutorial by thenewboston](https://www.youtube.com/playlist?list=PL46F0A159EC02DF82)
+_Pick one, then start practicing_
+* [Basic Javascript by W3Schools](https://www.w3schools.com/js/default.asp)
+* [Basic Javascript by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Javascript Video Tutorial by thenewboston](https://www.youtube.com/playlist?list=PL46F0A159EC02DF82)
 
 ## Reference
 * [JS Cheat Sheet](https://www.cheatography.com/davechild/cheat-sheets/javascript/pdf)
@@ -74,9 +74,9 @@ _Pick one only, then start practicing_
 ## A.4 PHP
 
 ### Tutorial
-- _Pick one only, then start practicing_
-- [ ] [PHP Video Tutorial by thenewboston](https://www.youtube.com/playlist?list=PL442FA2C127377F07)
-- [ ] [PHP Video Tutorial by Laracast](https://laracasts.com/skills/php)
+_Pick one, then start practicing_
+* [PHP Video Tutorial by thenewboston](https://www.youtube.com/playlist?list=PL442FA2C127377F07)
+* [PHP Video Tutorial by Laracast](https://laracasts.com/skills/php)
 
 ### Reference
 * [Official PHP Docs](http://php.net/manual/en)
