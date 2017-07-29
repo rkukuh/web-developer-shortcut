@@ -33,7 +33,7 @@ So now you can focus on learning instead of picking study subjects.
 
 # A. Fundamental
 
-## A.1 HTML5 ![HTML5 Logo](https://s3-ap-northeast-1.amazonaws.com/qiita-tag-image/947e2e83c7248231ef3224d56e4ca3160a5b5368/medium.jpg) 
+## A.1 HTML5 ![HTML5 Logo](http://html5-training-in-hyderabad.blogspot.co.id/favicon.ico) 
 
 ### Tutorial
 _Pick one, then start practicing_
