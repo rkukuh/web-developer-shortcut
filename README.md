@@ -33,7 +33,7 @@ So now you can focus on learning instead of picking study subjects.
 
 # A. Fundamental
 
-## A.1 HTML5 <img src="https://image.flaticon.com/icons/png/128/226/226269.png" width="24">
+## A.1 HTML5 <img src="https://image.flaticon.com/icons/png/128/226/226269.png" width="30">
 
 ### Tutorial
 _Pick one, then start practicing_
@@ -47,7 +47,7 @@ _Pick one, then start practicing_
 * __Validator__ : [W3C Developer Tools](http://w3c.github.io/developers/tools)
 * __Scoring__ : [How well does your browser support HTML5 ?](http://beta.html5test.com)
 
-## A.2 CSS3 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-128.png" width="24">
+## A.2 CSS3 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-128.png" width="30">
 
 ### Tutorial
 _Pick one, then start practicing_
@@ -76,7 +76,7 @@ _Pick one, then start practicing_
 * [JS Reference by DevDocs](http://devdocs.io/javascript)
 * [JS Reference by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
-## A.4 PHP
+## A.4 PHP <img src="http://www.webtecz.com/wp-content/uploads/2016/06/php-logo-webtecz.png" width="32">
 
 ### Tutorial
 _Pick one, then start practicing_
