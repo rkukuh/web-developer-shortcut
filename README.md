@@ -89,7 +89,8 @@ _Pick one, then start practicing_
 * __Cheat Sheet__ : [PHP Cheat Sheet](https://www.cheatography.com/davechild/cheat-sheets/php/pdf)
 
 ### Other
-* __Packages__ : [The PHP League](https://thephpleague.com)
+* __Dependency Manager__ : [Composer](https://getcomposer.org)
+* __Packages__ : [The PHP League](https://thephpleague.com) | [Packagist](https://packagist.org)
 
 # B. Advanced
 
@@ -114,7 +115,7 @@ _Pick one first, practicing, then continue to the other_
 [CSS3 Tutorial by W3Schools](https://www.w3schools.com/css/css3_intro.asp)
 
 ### UI Frameworks
-_Mastering only one first, then you can continue to learn the others_
+_Mastering one at a time, then you can continue to learn the others_
 * [Bootstrap](http://getbootstrap.com)
 * [Foundation](http://foundation.zurb.com)
 * [Material Design by Google](https://getmdl.io)
@@ -129,10 +130,10 @@ _Mastering only one first, then you can continue to learn the others_
 _Learn them all_
 * [You Dont Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
 * [ES2015 Video Tutorial by Laracast](https://laracasts.com/series/es6-cliffsnotes)
-* [JS Design Pattern by Oddy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [JS Design Pattern by Oddy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book)
 
 ### Libraries
-* jQuery
+* [jQuery](https://jquery.com)
 
 ### Reference
 * ES2017
@@ -140,6 +141,7 @@ _Learn them all_
 ### Tools
 * Gulp
 * Grunt
+* Webpack
 
 ## B.4 PHP
 
@@ -176,25 +178,25 @@ _Learn them all_
 ## C.2 Javascript
 
 ### Frameworks
-* React by Facebook
-* Angular by Google
-* Vue
+* [React by Facebook](https://facebook.github.io/react)
+* [Angular by Google](https://angular.io)
+* [Vue](https://vuejs.org)
 
 ## C.3 PHP
 
 ### PHP Frameworks
-* Laravel
-* Symfony
-* Zend Framework
+* [Laravel](https://laravel.com)
+* [Symfony](https://symfony.com)
+* [Zend Framework](https://framework.zend.com)
 
 ## C.4 Development Principles
 
 <hr>
 
+# Appendix
+
 > <details>
-> <summary>Appendix (click here to see)</summary><p>
->
-> # Appendix
+> <summary>Click here to see</summary><p>
 >
 > ## Certification
 > * [HTML Certification by W3Schools](https://www.w3schools.com/cert/cert_html_new.asp)
