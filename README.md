@@ -136,12 +136,13 @@ _Learn them all_
 * [jQuery](https://jquery.com)
 
 ### Reference
-* ES2017
+* [EcmaScript 6](http://es6-features.org)
 
-### Tools
-* Gulp
-* Grunt
-* Webpack
+### Build Tool
+_Mastering one at a time, they offers similiar goals_
+* [Gulp](https://gulpjs.com)
+* [Grunt](https://gruntjs.com)
+* [Webpack](https://webpack.github.io)
 
 ## B.4 PHP
 
@@ -168,6 +169,7 @@ _Learn them all_
 ## C.1 CSS3
 
 ### Prepocessor
+_Mastering one at a time, then you can continue to learn the others_
 * [SASS](http://sass-lang.com)
 * [PostCSS](http://postcss.org)
 * [LESS](http://lesscss.org)
@@ -177,14 +179,16 @@ _Learn them all_
 
 ## C.2 Javascript
 
-### Frameworks
+### Framework
+_Mastering one at a time, then you can continue to learn the others_
 * [React by Facebook](https://facebook.github.io/react)
 * [Angular by Google](https://angular.io)
 * [Vue](https://vuejs.org)
 
 ## C.3 PHP
 
-### PHP Frameworks
+### Framework
+_Mastering one at a time, then you can continue to learn the others_
 * [Laravel](https://laravel.com)
 * [Symfony](https://symfony.com)
 * [Zend Framework](https://framework.zend.com)
