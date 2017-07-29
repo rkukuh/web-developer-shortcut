@@ -38,9 +38,9 @@ So now you can focus on learning instead of picking similiar study subjects.
 ### Reference
 [HTML Cheat Sheet](https://hostingfacts.com/wp-content/uploads/2016/06/hf-html-cheat-sheet.pdf)
 
-### Other
+### Tool
 * __Validator__ : [W3C Developer Tools](http://w3c.github.io/developers/tools)
-* __Tool__ : [How well does your browser support HTML5 ?](http://beta.html5test.com)
+* __Scoring__ : [How well does your browser support HTML5 ?](http://beta.html5test.com)
 
 ## A.2 CSS3
 
