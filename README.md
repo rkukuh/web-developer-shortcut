@@ -24,7 +24,7 @@ So now you can focus on learning instead of picking similiar study subjects.
     * C.2 Javascript
     * C.3 PHP
     * C.4 Development Tools
-* D. Nice To Know
+* Appendix
 
 # A. Fundamental
 
@@ -184,7 +184,7 @@ _Learn them all_
 ### Continuous Integration
 * Travis CI
 
-# D. Nice To Know
+# Appendix
 
 ## Certification
 * [HTML Certification by W3Schools](https://www.w3schools.com/cert/cert_html_new.asp)
