@@ -71,7 +71,7 @@ _Pick one, then start practicing_
 * [Javascript Video Tutorial by thenewboston](https://www.youtube.com/playlist?list=PL46F0A159EC02DF82)
 * [Basic Javascript by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-## Reference
+### Reference
 * [JS Cheat Sheet](https://www.cheatography.com/davechild/cheat-sheets/javascript/pdf)
 * [JS Reference by DevDocs](http://devdocs.io/javascript)
 * [JS Reference by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
