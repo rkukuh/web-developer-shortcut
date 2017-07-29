@@ -31,7 +31,7 @@ So now you can focus on learning instead of picking study subjects.
 ## A.1 HTML5
 
 ### Tutorial
-<small>_✅ Pick one_</small>
+<small>✅ Pick one</small>
 - [ ] [Basic HTML by W3Schools](https://www.w3schools.com/html/default.asp)
 - [ ] [Basic HTML by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
