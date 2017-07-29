@@ -1,6 +1,6 @@
 # Web Developer Shortcut
 
-Being a good web developer is a long journey. This guideline, hopefully, could become a shortcut for newcomers.  
+Being a great web developer is a long journey. This guideline, hopefully, could become a shortcut for newcomers.  
 
 While other guidelines refers to so many resources that overwhelming for most of newbie, this one contains at most 3 most-referenced resources per study category per subject.  
 
@@ -30,7 +30,7 @@ So now you can focus on learning instead of picking study subjects.
 
 ## A.1 HTML5
 
-### Tutorial
+### Tutorial <small>pick one</small>
 * [Basic HTML by W3Schools](https://www.w3schools.com/html/default.asp)
 * [Basic HTML by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
