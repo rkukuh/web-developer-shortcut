@@ -2,7 +2,7 @@
 
 Being a great web developer is a long journey. This guideline, hopefully, could become a shortcut for newcomers.  
 
-While other guidelines refers to so many resources that overwhelming for most of newbie, this one contains at most 3 most-referenced resources per study category per subject.  
+While other guide refers to so many resources that overwhelming for most of newbie, this one contains at most 3 most-referenced resources per study category per subject.  
 
 So now you can focus on learning instead of picking similiar study subjects.
 
@@ -58,7 +58,7 @@ _Pick one, then start practicing_
 _Pick one, then start obeying_
 * [CSS Coding Guide by Google](https://google.github.io/styleguide/htmlcssguide.html#CSS)
 * [CSS Guide by @mdo (creator of Bootstrap)](http://codeguide.co/#css)
-* [RSCSS - Reasonable Standard for CSS Stylesheet Structure](http://rscss.io)
+* [Reasonable Standard for CSS Stylesheet Structure](http://rscss.io)
 
 ### Reference
 [CSS / CSS3 Cheat Sheet](https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf)
