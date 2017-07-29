@@ -9,6 +9,8 @@ So now you can focus on learning instead of picking similiar study subjects.
 ## Table of Content
 
 <details>
+<summary>Click here to see</summary><p>
+
 * A. [Fundamental](#a-fundamental)
     * A.1 [HTML5](#a1-html5)
     * A.2 [CSS3](#a2-css3)
@@ -26,6 +28,7 @@ So now you can focus on learning instead of picking similiar study subjects.
     * C.3 PHP
     * C.4 Development Tools
 * Appendix
+</p>
 </details>
 
 # A. Fundamental
