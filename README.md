@@ -151,18 +151,18 @@ _Mastering one at a time, they offers similiar goals_
 * Design Pattern
 
 ### Testing
-* PHP Unit
-* Behat
+* [PHP Unit](https://phpunit.de)
+* [Behat](http://behat.org/en/latest/)
 
 ## B.5 Development Tools
 
 ### Version Control
-* Git / Github
-* Smartgit
-* Bitbucket
+* [Git](https://git-scm.com)
+* [Github](https://github.com)
 
 ### Continuous Integration
-* Travis CI
+* [Travis CI](https://travis-ci.org)
+* [Jenkins](https://jenkins.io)
 
 # C. Expert
 
@@ -194,6 +194,8 @@ _Mastering one at a time, then you can continue to learn the others_
 * [Zend Framework](https://framework.zend.com)
 
 ## C.4 Development Principles
+* [UML](http://www.agilemodeling.com/essays/umlDiagrams.htm)
+* [Scrum](http://www.scrumguides.org/scrum-guide.html)
 
 <hr>
 
