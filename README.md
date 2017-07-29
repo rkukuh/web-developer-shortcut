@@ -189,19 +189,23 @@ _Learn them all_
 ### Continuous Integration
 * Travis CI
 
-# Appendix
-
-## Certification
-* [HTML Certification by W3Schools](https://www.w3schools.com/cert/cert_html_new.asp)
-* [Front-End Professional Certificate Program by W3C](https://www.edx.org/professional-certificate/front-end-web-developer-9)
-
-## Curated Lists
-* [HTML5](https://github.com/diegocard/awesome-html5)
-* [CSS / CSS3](https://github.com/sotayamashita/awesome-css)
-* __Javascript__
-    * [Learning](https://github.com/micromata/awesome-javascript-learning)
-    * [Resources](https://github.com/sorrycc/awesome-javascript)
-* [PHP](https://github.com/ziadoz/awesome-php)
-
-## Future
-* [HTML 5.2](http://w3c.github.io/html)
+> <details>
+> <summary>Appendix (click here to see)</summary><p>
+> # Appendix
+>
+> ## Certification
+> * [HTML Certification by W3Schools](https://www.w3schools.com/cert/cert_html_new.asp)
+> * [Front-End Professional Certificate Program by W3C](https://www.edx.org/professional-certificate/front-end-web-developer-9)
+>
+> ## Curated Lists
+> * [HTML5](https://github.com/diegocard/awesome-html5)
+> * [CSS / CSS3](https://github.com/sotayamashita/awesome-css)
+> * __Javascript__
+>     * [Learning](https://github.com/micromata/awesome-javascript-learning)
+>     * [Resources](https://github.com/sorrycc/awesome-javascript)
+> * [PHP](https://github.com/ziadoz/awesome-php)
+>
+> ## Future
+> * [HTML 5.2](http://w3c.github.io/html)
+> </p>
+> </details>
