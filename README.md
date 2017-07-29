@@ -26,7 +26,7 @@ So now you can focus on learning instead of picking study subjects.
 >     * C.1 CSS3
 >     * C.2 Javascript
 >     * C.3 PHP
->     * C.4 Development Tools
+>     * C.4 Development Principles
 > * Appendix
 > </p>
 > </details>
@@ -143,7 +143,7 @@ _Learn them all_
 
 ## B.4 PHP
 
-### Developement Paradigm
+### Paradigm
 * OOP
 * Design Pattern
 
@@ -157,6 +157,9 @@ _Learn them all_
 * Git / Github
 * Smartgit
 * Bitbucket
+
+### Continuous Integration
+* Travis CI
 
 # C. Expert
 
@@ -184,10 +187,7 @@ _Learn them all_
 * Symfony
 * Zend Framework
 
-## C.4 Development Tools
-
-### Continuous Integration
-* Travis CI
+## C.4 Development Principles
 
 <hr>
 
