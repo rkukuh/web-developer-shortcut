@@ -189,8 +189,11 @@ _Learn them all_
 ### Continuous Integration
 * Travis CI
 
+<hr>
+
 > <details>
 > <summary>Appendix (click here to see)</summary><p>
+>
 > # Appendix
 >
 > ## Certification
