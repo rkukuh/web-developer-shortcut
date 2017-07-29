@@ -31,9 +31,9 @@ So now you can focus on learning instead of picking similiar study subjects.
 ## A.1 HTML5
 
 ### Tutorial
-- _Pick one only, then start practicing_
-- [ ] [Basic HTML by W3Schools](https://www.w3schools.com/html/default.asp)
-- [ ] [Basic HTML by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+_Pick one only, then start practicing_
+* [Basic HTML by W3Schools](https://www.w3schools.com/html/default.asp)
+* [Basic HTML by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
 ### Reference
 [HTML Cheat Sheet](https://hostingfacts.com/wp-content/uploads/2016/06/hf-html-cheat-sheet.pdf)
