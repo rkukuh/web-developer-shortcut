@@ -31,8 +31,8 @@ So now you can focus on learning instead of picking study subjects.
 ## A.1 HTML5
 
 ### Tutorial
-<small>pick one</small>
-[ ] [Basic HTML by W3Schools](https://www.w3schools.com/html/default.asp)
+<small>_Pick one_</small>
+- [ ] [Basic HTML by W3Schools](https://www.w3schools.com/html/default.asp)
 - [ ] [Basic HTML by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
 ### Reference
@@ -45,8 +45,9 @@ So now you can focus on learning instead of picking study subjects.
 ## A.2 CSS3
 
 ### Tutorial
-* [Basic CSS by W3Schools](https://www.w3schools.com/css/default.asp)
-* [Basic CSS by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
+<small>_Pick one_</small>
+- [ ] [Basic CSS by W3Schools](https://www.w3schools.com/css/default.asp)
+- [ ] [Basic CSS by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
 
 ### Reference
 * [CSS Coding Guide by Google](https://google.github.io/styleguide/htmlcssguide.html#CSS)
