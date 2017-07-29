@@ -63,7 +63,7 @@ _Pick one, then start obeying_
 ### Reference
 [CSS / CSS3 Cheat Sheet](https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf)
 
-## A.3 Javascript
+## A.3 Javascript <img src="https://k60.kn3.net/taringa/2/9/4/9/B/0/22matutex22/CAF.png" width="24">
 
 ### Tutorial
 _Pick one, then start practicing_
