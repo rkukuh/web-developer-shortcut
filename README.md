@@ -8,28 +8,28 @@ So now you can focus on learning instead of picking similiar study subjects.
 
 ## Table of Content
 
-<details>
-<summary>Click here to see</summary><p>
-
-* A. [Fundamental](#a-fundamental)
-    * A.1 [HTML5](#a1-html5)
-    * A.2 [CSS3](#a2-css3)
-    * A.3 [Javascript](#a3-javascript)
-    * A.4 [PHP](#a4-php)
-* B. Advanced
-    * B.1 HTML5
-    * B.2 CSS3
-    * B.3 Javascript
-    * B.4 PHP
-    * B.5 Development Tools
-* C. Expert
-    * C.1 CSS3
-    * C.2 Javascript
-    * C.3 PHP
-    * C.4 Development Tools
-* Appendix
-</p>
-</details>
+> <details>
+> <summary>Click here to see</summary><p>
+>
+> * A. [Fundamental](#a-fundamental)
+>     * A.1 [HTML5](#a1-html5)
+>     * A.2 [CSS3](#a2-css3)
+>     * A.3 [Javascript](#a3-javascript)
+>     * A.4 [PHP](#a4-php)
+> * B. Advanced
+>     * B.1 HTML5
+>     * B.2 CSS3
+>     * B.3 Javascript
+>     * B.4 PHP
+>     * B.5 Development Tools
+> * C. Expert
+>     * C.1 CSS3
+>     * C.2 Javascript
+>     * C.3 PHP
+>     * C.4 Development Tools
+> * Appendix
+> </p>
+> </details>
 
 # A. Fundamental
 
