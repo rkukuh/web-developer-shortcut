@@ -135,14 +135,14 @@ _Learn them all_
 ### Libraries
 * [jQuery](https://jquery.com)
 
-### Reference
-* [EcmaScript 6](http://es6-features.org)
-
 ### Build Tool
 _Mastering one at a time, they offers similiar goals_
 * [Gulp](https://gulpjs.com)
 * [Grunt](https://gruntjs.com)
 * [Webpack](https://webpack.github.io)
+
+### Reference
+* [EcmaScript 6](http://es6-features.org)
 
 ## B.4 PHP
 
