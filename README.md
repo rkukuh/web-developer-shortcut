@@ -9,7 +9,7 @@ So now you can focus on learning instead of picking study subjects.
 ## Table of Content
 
 > <details>
-> <summary>Click here to see</summary><p>
+> <summary>Click here to see ToC</summary><p>
 >
 > * A. [Fundamental](#a-fundamental)
 >     * A.1 [HTML5](#a1-html5)
@@ -31,9 +31,13 @@ So now you can focus on learning instead of picking study subjects.
 > </p>
 > </details>
 
-## 0. Prerequisites
 
-Before you get started coding, make sure you already have / installed:
+## Prerequisites
+
+Before you get started coding, make sure you already have / installed these following stuff:
+
+<details>
+<summary>Click here to see Prerequisites</summary><p>
 
 ### Web Server
 _Pick one_
@@ -46,6 +50,8 @@ _Pick one_
 * __Code Editor__ : [Brackets by Adobe](http://brackets.io)
 * __Integrated Development Environment__ : [PhpStorm](https://www.jetbrains.com/phpstorm)  
     _Get a [student license](https://www.jetbrains.com/student/) so you can have PHPStorm for FREE for 1 year_
+</p>
+</details>
 
 # A. Fundamental
 
