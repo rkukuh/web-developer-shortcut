@@ -31,6 +31,20 @@ So now you can focus on learning instead of picking study subjects.
 > </p>
 > </details>
 
+## 0. Prerequisites
+
+Before you get started coding, make sure you already have / installed:
+
+### Web Servers
+_Pick one_
+* [XAMPP](https://www.apachefriends.org/index.html)
+* [Valet for Mac only](https://laravel.com/docs/5.4/valet)
+
+### Code Editor
+* [Atom](https://atom.io)
+* [PhpStorm](https://www.jetbrains.com/phpstorm)
+    _Get a [student license](https://www.jetbrains.com/student/) so you can have FREE for 1 year_
+
 # A. Fundamental
 
 ## A.1 HTML5 <img src="https://image.flaticon.com/icons/png/128/226/226269.png" width="24">
