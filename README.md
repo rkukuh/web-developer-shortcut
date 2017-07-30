@@ -258,6 +258,7 @@ _Mastering one at a time, then you can continue to learn the others_
 >     * [Learning](https://github.com/micromata/awesome-javascript-learning)
 >     * [Resources](https://github.com/sorrycc/awesome-javascript)
 > * [PHP](https://github.com/ziadoz/awesome-php)
+> * [MySQL](http://shlomi-noach.github.io/awesome-mysql)
 >
 > ## Future
 > * [HTML 5.2](http://w3c.github.io/html)
