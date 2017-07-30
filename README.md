@@ -111,7 +111,7 @@ _Pick one, then start practicing_
 
 ### Other
 * __Dependency Manager__ : [Composer](https://getcomposer.org)
-* __Packages__ : [The PHP League](https://thephpleague.com) | [Packagist](https://packagist.org)
+* __Packages__ : [The PHP League](https://thephpleague.com)
 
 # B. Advanced
 
@@ -185,6 +185,12 @@ _Pick one first, practicing, then continue to the other_
 * [OOP by PHPEnthusiast](http://phpenthusiast.com/object-oriented-php-tutorials)
 * [OOP by Codecademy](https://www.codecademy.com/courses/web-beginner-en-bH5s3/0/1)
 
+### Mashup API
+_Pick one first, practicing, then continue to the other_
+* [Google API](https://developers.google.com)
+* [Facebook API](https://developers.facebook.com)
+* [REST API Development]
+
 ### Testing
 _Pick one first, practicing, then continue to the other_
 * [PHP Unit](https://phpunit.de)
@@ -218,6 +224,7 @@ _Mastering one at a time, then you can continue to learn the others_
 ## C.2 PHP <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/320px-PHP-logo.svg.png" width="32">
 
 ### Paradigm
+* [OAuth](https://oauth.net)
 * [Design Patterns](https://github.com/domnikl/DesignPatternsPHP)
 
 ### Framework
@@ -230,6 +237,7 @@ _Mastering one at a time, then you can continue to learn the others_
 * [UML](http://www.agilemodeling.com/essays/umlDiagrams.htm)
 * [Joel's Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code)
 * [Scrum (Official Guide)](http://www.scrumguides.org/scrum-guide.html)
+* [Functional Programming]
 * [Object-Oriented Analysis & Design](http://www.tutorialspoint.com/object_oriented_analysis_design)
 
 <hr>
