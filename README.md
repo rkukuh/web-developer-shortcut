@@ -11,6 +11,7 @@ So now you can focus on learning instead of picking study subjects.
 > <details>
 > <summary>Click here to see</summary><p>
 >
+> * 0. [Prerequisites](#0-prerequisites)
 > * A. [Fundamental](#a-fundamental)
 >     * A.1 [HTML5](#a1-html5)
 >     * A.2 [CSS3](#a2-css3)
@@ -31,16 +32,16 @@ So now you can focus on learning instead of picking study subjects.
 > </p>
 > </details>
 
-# 0. Prerequisites
+## 0. Prerequisites
 
 Before you get started coding, make sure you already have / installed:
 
-## Web Servers
+### Web Servers
 _Pick one_
 * [XAMPP](https://www.apachefriends.org/index.html)
 * [Valet for Mac only](https://laravel.com/docs/5.4/valet)
 
-## Editor
+### Editor
 _Pick one_
 * __Code Editor__ : [Atom by Github](https://atom.io)
 * __Code Editor__ : [Brackets by Adobe](http://brackets.io)
