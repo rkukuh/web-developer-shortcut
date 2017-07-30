@@ -22,11 +22,11 @@ So now you can focus on learning instead of picking study subjects.
 >     * B.3 [Javascript](#b3-javascript)
 >     * B.4 [PHP](#b4-php)
 >     * B.5 [Development Tools](#b5-development-tools)
-> * C. Expert
->     * C.1 CSS3
->     * C.2 Javascript
->     * C.3 PHP
->     * C.4 Development Principles
+> * C. [Expert](#c-expert)
+>     * C.1 [CSS3](#c1-css3)
+>     * C.2 [Javascript](#c2-javascript)
+>     * C.3 [PHP](#c3-php)
+>     * C.4 [Development Principles](#c4-development-principles)
 > * Appendix
 > </p>
 > </details>
