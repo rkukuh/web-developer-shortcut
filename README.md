@@ -76,7 +76,7 @@ _Pick one, then start practicing_
 * [JS Reference by DevDocs](http://devdocs.io/javascript)
 * [JS Reference by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
-## A.4 PHP <img src="http://www.webtecz.com/wp-content/uploads/2016/06/php-logo-webtecz.png" width="24">
+## A.4 PHP <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/320px-PHP-logo.svg.png" width="32">
 
 ### Tutorial
 _Pick one, then start practicing_
