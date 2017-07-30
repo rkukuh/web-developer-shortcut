@@ -34,7 +34,7 @@ So now you can focus on learning instead of picking study subjects.
 
 ## Prerequisites
 
-Before you get started coding, make sure you already have / installed these following stuff:
+Before you start coding, make sure that you already installed these required stuff:
 
 > <details>
 > <summary>Click here to see Prerequisites</summary><p>
