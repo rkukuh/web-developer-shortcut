@@ -44,7 +44,7 @@ _Pick one_
 _Pick one_
 * __Code Editor__ : [Atom by Github](https://atom.io)
 * __Code Editor__ : [Brackets by Adobe](http://brackets.io)
-* __IDE__ : [PhpStorm](https://www.jetbrains.com/phpstorm)
+* __IDE__ : [PhpStorm](https://www.jetbrains.com/phpstorm)  
     _Get a [student license](https://www.jetbrains.com/student/) so you can have FREE for 1 year_
 
 # A. Fundamental
