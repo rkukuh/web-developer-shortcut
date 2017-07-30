@@ -137,15 +137,15 @@ _Pick one first, practicing, then continue to the other_
 ### Tutorial
 [CSS3 Tutorial by W3Schools](https://www.w3schools.com/css/css3_intro.asp)
 
-### Reference
-* [You Might Not Need JS](http://youmightnotneedjs.com)
-* [CSS3 Reference by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
-
-### UI Frameworks
+### Front-End Framework
 _Mastering one at a time, then you can continue to learn the others_
 * [Bootstrap](http://getbootstrap.com)
 * [Foundation](http://foundation.zurb.com)
 * [Material Design by Google](https://getmdl.io)
+
+### Reference
+* [You Might Not Need JS](http://youmightnotneedjs.com)
+* [CSS3 Reference by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
 
 ## B.3 Javascript <img src="https://k60.kn3.net/taringa/2/9/4/9/B/0/22matutex22/CAF.png" width="24">
 
@@ -159,7 +159,6 @@ _Learn them all_
 _Mastering one at a time, then continue to mastering the others_
 * [jQuery](https://jquery.com)
 * [Axios](https://github.com/mzabriskie/axios)
-* [Node](https://nodejs.org)
 
 ### Build Tool
 _Mastering one at a time, they offers similiar goals_
@@ -179,11 +178,13 @@ _Mastering one at a time, they offers similiar goals_
 ## B.4 PHP <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/320px-PHP-logo.svg.png" width="32">
 
 ### Object-Oriented Programming
+_Pick one first, practicing, then continue to the other_
 * [OOP by Official PHP Docs](http://php.net/manual/en/language.oop5.php)
 * [OOP by PHPEnthusiast](http://phpenthusiast.com/object-oriented-php-tutorials)
 * [OOP by Codecademy](https://www.codecademy.com/courses/web-beginner-en-bH5s3/0/1)
 
 ### Testing
+_Pick one first, practicing, then continue to the other_
 * [PHP Unit](https://phpunit.de)
 * [Behat](http://behat.org/en/latest/)
 
