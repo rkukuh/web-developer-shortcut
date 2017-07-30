@@ -94,7 +94,7 @@ _Pick one, then start practicing_
 
 # B. Advanced
 
-## B.1 HTML5
+## B.1 HTML5 <img src="https://image.flaticon.com/icons/png/128/226/226269.png" width="24">
 
 ### Tutorial
 _Pick one first, practicing, then continue to the other_
@@ -109,7 +109,7 @@ _Pick one first, practicing, then continue to the other_
 * __Cheat Sheet__ : [HTML5 Cheat Sheet](https://websitesetup.org/HTML5-cheat-sheet.pdf)
 * __Example__ : [HTML5 Demos & Examples](https://html5demos.com)
 
-## B.2 CSS3
+## B.2 CSS3 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-128.png" width="24">
 
 ### Tutorial
 [CSS3 Tutorial by W3Schools](https://www.w3schools.com/css/css3_intro.asp)
@@ -124,7 +124,7 @@ _Mastering one at a time, then you can continue to learn the others_
 * [You Might Not Need JS](http://youmightnotneedjs.com)
 * [CSS3 Reference by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
 
-## B.3 Javascript
+## B.3 Javascript <img src="https://k60.kn3.net/taringa/2/9/4/9/B/0/22matutex22/CAF.png" width="24">
 
 ### Tutorial
 _Learn them all_
@@ -144,7 +144,7 @@ _Mastering one at a time, they offers similiar goals_
 ### Reference
 * [EcmaScript 6](http://es6-features.org)
 
-## B.4 PHP
+## B.4 PHP <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/320px-PHP-logo.svg.png" width="32">
 
 ### Object-Oriented Programming
 * [OOP by Official PHP Docs](http://php.net/manual/en/language.oop5.php)
