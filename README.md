@@ -46,6 +46,7 @@ Before you start coding, make sure that you already installed these required stu
 > ### Editor
 > _Pick one_
 > * __Code Editor__ : [Atom by Github](https://atom.io)
+> * __Code Editor__ : [Visual Code by Microsoft](https://code.visualstudio.com)
 > * __Code Editor__ : [Brackets by Adobe](http://brackets.io)
 > * __Integrated Development Environment__ : [PhpStorm](https://www.jetbrains.com/phpstorm)  
 >     _Get a [student license](https://www.jetbrains.com/student/) so you can have PHPStorm for FREE for 1 year_
