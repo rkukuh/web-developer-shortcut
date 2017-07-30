@@ -102,17 +102,22 @@ _Pick one first, practicing, then continue to the other_
 * [HTML5 Video Tutorial by thenewboston](https://www.youtube.com/playlist?list=PL081AC329706B2953)
 
 ### Reference
-* [Can I Use](http://caniuse.com)
+* [HTML5 by W3C](https://www.w3.org/TR/html5)
 * [HTML5 vs HTML4 by W3C](https://www.w3.org/TR/html5-diff)
 
 ### Other
+* __Tool__ : [Can I Use](http://caniuse.com)
+* __Example__ : [HTML5 Demos](https://html5demos.com)
 * __Cheat Sheet__ : [HTML5 Cheat Sheet](https://websitesetup.org/HTML5-cheat-sheet.pdf)
-* __Example__ : [HTML5 Demos & Examples](https://html5demos.com)
 
 ## B.2 CSS3 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-128.png" width="24">
 
 ### Tutorial
 [CSS3 Tutorial by W3Schools](https://www.w3schools.com/css/css3_intro.asp)
+
+### Reference
+* [You Might Not Need JS](http://youmightnotneedjs.com)
+* [CSS3 Reference by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
 
 ### UI Frameworks
 _Mastering one at a time, then you can continue to learn the others_
@@ -120,20 +125,18 @@ _Mastering one at a time, then you can continue to learn the others_
 * [Foundation](http://foundation.zurb.com)
 * [Material Design by Google](https://getmdl.io)
 
-### Reference
-* [You Might Not Need JS](http://youmightnotneedjs.com)
-* [CSS3 Reference by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
-
 ## B.3 Javascript <img src="https://k60.kn3.net/taringa/2/9/4/9/B/0/22matutex22/CAF.png" width="24">
 
 ### Tutorial
 _Learn them all_
-* [You Dont Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
+* [ES2015 by Babel.io](https://babeljs.io/learn-es2015)
 * [ES2015 Video Tutorial by Laracast](https://laracasts.com/series/es6-cliffsnotes)
 * [JS Design Pattern by Oddy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book)
 
-### Libraries
+### Library
+_Mastering one at a time, then continue to mastering the others_
 * [jQuery](https://jquery.com)
+* [Axios](https://github.com/mzabriskie/axios)
 
 ### Build Tool
 _Mastering one at a time, they offers similiar goals_
@@ -142,7 +145,7 @@ _Mastering one at a time, they offers similiar goals_
 * [Webpack](https://webpack.github.io)
 
 ### Reference
-* [EcmaScript 6](http://es6-features.org)
+[EcmaScript 6](http://es6-features.org)
 
 ## B.4 PHP <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/320px-PHP-logo.svg.png" width="32">
 
@@ -223,5 +226,6 @@ _Mastering one at a time, then you can continue to learn the others_
 >
 > ## Future
 > * [HTML 5.2](http://w3c.github.io/html)
+> * [You Dont Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
 > </p>
 > </details>
