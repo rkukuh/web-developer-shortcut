@@ -136,17 +136,17 @@ _Pick one first, practicing, then continue to the other_
 ### Tutorial
 [CSS3 Tutorial by W3Schools](https://www.w3schools.com/css/css3_intro.asp)
 
-### Prepocessor
-_Mastering one at a time, then you can continue to learn the others_
-* [SASS/SCSS](http://sass-lang.com)
-* [PostCSS](http://postcss.org)
-* [LESS](http://lesscss.org)
-
 ### Front-End Framework
 _Mastering one at a time, then you can continue to learn the others_
 * [Bootstrap](http://getbootstrap.com)
 * [Foundation](http://foundation.zurb.com)
 * [Material Design by Google](https://getmdl.io)
+
+### Prepocessor
+_Mastering one at a time, then you can continue to learn the others_
+* [SASS/SCSS](http://sass-lang.com)
+* [PostCSS](http://postcss.org)
+* [LESS](http://lesscss.org)
 
 ### Reference
 * [SASS Guideline](https://sass-guidelin.es)
@@ -157,14 +157,9 @@ _Mastering one at a time, then you can continue to learn the others_
 
 ### Tutorial
 _Learn them all_
-* [ES2015 by Babel.io](https://babeljs.io/learn-es2015)
 * [ES2015 Video Tutorial by Laracast](https://laracasts.com/series/es6-cliffsnotes)
 * [JS Design Pattern by Oddy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book)
-
-### Library
-_Mastering one at a time, then continue to mastering the others_
-* [jQuery](https://jquery.com)
-* [Axios](https://github.com/mzabriskie/axios)
+* [jQuery Video Tutorial by thenewboston](https://www.youtube.com/playlist?list=PL6B08BAA57B5C7810)
 
 ### Build Tool
 _Mastering one at a time, they offers similiar goals_
@@ -178,6 +173,7 @@ _Mastering one at a time, they offers similiar goals_
 * [Jasmine](https://jasmine.github.io)
 
 ### Reference
+* [ES2015](https://babeljs.io/learn-es2015)
 * [EcmaScript 6](http://es6-features.org)
 * [The State of Javascript](http://stateofjs.com/2016/introduction/)
 
