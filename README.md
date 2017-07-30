@@ -36,22 +36,22 @@ So now you can focus on learning instead of picking study subjects.
 
 Before you get started coding, make sure you already have / installed these following stuff:
 
-<details>
-<summary>Click here to see Prerequisites</summary><p>
-
-### Web Server
-_Pick one_
-* [XAMPP](https://www.apachefriends.org/index.html)
-* [Valet for Mac only](https://laravel.com/docs/5.4/valet)
-
-### Editor
-_Pick one_
-* __Code Editor__ : [Atom by Github](https://atom.io)
-* __Code Editor__ : [Brackets by Adobe](http://brackets.io)
-* __Integrated Development Environment__ : [PhpStorm](https://www.jetbrains.com/phpstorm)  
-    _Get a [student license](https://www.jetbrains.com/student/) so you can have PHPStorm for FREE for 1 year_
-</p>
-</details>
+> <details>
+> <summary>Click here to see Prerequisites</summary><p>
+>
+> ### Web Server
+> _Pick one_
+> * [XAMPP](https://www.apachefriends.org/index.html)
+> * [Valet for Mac only](https://laravel.com/docs/5.4/valet)
+>
+> ### Editor
+> _Pick one_
+> * __Code Editor__ : [Atom by Github](https://atom.io)
+> * __Code Editor__ : [Brackets by Adobe](http://brackets.io)
+> * __Integrated Development Environment__ : [PhpStorm](https://www.jetbrains.com/phpstorm)  
+>     _Get a [student license](https://www.jetbrains.com/student/) so you can have PHPStorm for FREE for 1 year_
+> </p>
+> </details>
 
 # A. Fundamental
 
