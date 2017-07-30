@@ -164,8 +164,8 @@ _Mastering one at a time, then continue to mastering the others_
 ### Build Tool
 _Mastering one at a time, they offers similiar goals_
 * [Gulp](https://gulpjs.com)
-* [Grunt](https://gruntjs.com)
 * [Webpack](https://webpack.github.io)
+* [Browserify](http://browserify.org)
 
 ### Testing
 _Mastering one at a time, they offers similiar goals_
@@ -203,7 +203,7 @@ _Mastering one at a time, they offers similiar goals_
 
 ### Prepocessor
 _Mastering one at a time, then you can continue to learn the others_
-* [SASS](http://sass-lang.com)
+* [SASS/SCSS](http://sass-lang.com)
 * [PostCSS](http://postcss.org)
 * [LESS](http://lesscss.org)
 
