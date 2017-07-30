@@ -167,7 +167,7 @@ _Mastering one at a time, they offers similiar goals_
 
 # C. Expert
 
-## C.1 CSS3
+## C.1 CSS3 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-128.png" width="24">
 
 ### Prepocessor
 _Mastering one at a time, then you can continue to learn the others_
@@ -178,7 +178,7 @@ _Mastering one at a time, then you can continue to learn the others_
 ### Reference
 * [SASS Guideline](https://sass-guidelin.es)
 
-## C.2 Javascript
+## C.2 Javascript <img src="https://k60.kn3.net/taringa/2/9/4/9/B/0/22matutex22/CAF.png" width="24">
 
 ### Framework
 _Mastering one at a time, then you can continue to learn the others_
@@ -186,7 +186,7 @@ _Mastering one at a time, then you can continue to learn the others_
 * [Angular by Google](https://angular.io)
 * [Vue](https://vuejs.org)
 
-## C.3 PHP
+## C.3 PHP <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/320px-PHP-logo.svg.png" width="32">
 
 ### Paradigm
 * [Design Patterns](https://github.com/domnikl/DesignPatternsPHP)
