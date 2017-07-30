@@ -62,12 +62,12 @@ _Pick one, then start practicing_
 * [Basic HTML by W3Schools](https://www.w3schools.com/html/default.asp)
 * [Basic HTML by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
-### Reference
-[HTML Cheat Sheet](https://hostingfacts.com/wp-content/uploads/2016/06/hf-html-cheat-sheet.pdf)
-
 ### Tool
 * __Validator__ : [W3C Developer Tools](http://w3c.github.io/developers/tools)
 * __Scoring__ : [How well does your browser support HTML5 ?](http://beta.html5test.com)
+
+### Reference
+[HTML Cheat Sheet](https://hostingfacts.com/wp-content/uploads/2016/06/hf-html-cheat-sheet.pdf)
 
 ## A.2 CSS3 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-128.png" width="24">
 
