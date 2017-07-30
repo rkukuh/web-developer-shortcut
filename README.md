@@ -159,6 +159,7 @@ _Learn them all_
 _Mastering one at a time, then continue to mastering the others_
 * [jQuery](https://jquery.com)
 * [Axios](https://github.com/mzabriskie/axios)
+* [Node](https://nodejs.org)
 
 ### Build Tool
 _Mastering one at a time, they offers similiar goals_
@@ -166,8 +167,14 @@ _Mastering one at a time, they offers similiar goals_
 * [Grunt](https://gruntjs.com)
 * [Webpack](https://webpack.github.io)
 
+### Testing
+_Mastering one at a time, they offers similiar goals_
+* [Mocha](https://mochajs.org)
+* [Jasmine](https://jasmine.github.io)
+
 ### Reference
-[EcmaScript 6](http://es6-features.org)
+* [EcmaScript 6](http://es6-features.org)
+* [The State of Javascript](http://stateofjs.com/2016/introduction/)
 
 ## B.4 PHP <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/320px-PHP-logo.svg.png" width="32">
 
