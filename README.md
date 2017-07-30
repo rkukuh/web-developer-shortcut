@@ -23,10 +23,9 @@ So now you can focus on learning instead of picking study subjects.
 >     * B.4 [PHP](#b4-php)
 >     * B.5 [Development Tools](#b5-development-tools)
 > * C. [Expert](#c-expert)
->     * C.1 [CSS3](#c1-css3)
->     * C.2 [Javascript](#c2-javascript)
->     * C.3 [PHP](#c3-php)
->     * C.4 [Development Principles](#c4-development-principles)
+>     * C.1 [Javascript](#c1-javascript)
+>     * C.2 [PHP](#c2-php)
+>     * C.3 [Development Principles](#c3-development-principles)
 > * [Appendix](#appendix)
 > </p>
 > </details>
@@ -137,6 +136,12 @@ _Pick one first, practicing, then continue to the other_
 ### Tutorial
 [CSS3 Tutorial by W3Schools](https://www.w3schools.com/css/css3_intro.asp)
 
+### Prepocessor
+_Mastering one at a time, then you can continue to learn the others_
+* [SASS/SCSS](http://sass-lang.com)
+* [PostCSS](http://postcss.org)
+* [LESS](http://lesscss.org)
+
 ### Front-End Framework
 _Mastering one at a time, then you can continue to learn the others_
 * [Bootstrap](http://getbootstrap.com)
@@ -144,6 +149,7 @@ _Mastering one at a time, then you can continue to learn the others_
 * [Material Design by Google](https://getmdl.io)
 
 ### Reference
+* [SASS Guideline](https://sass-guidelin.es)
 * [You Might Not Need JS](http://youmightnotneedjs.com)
 * [CSS3 Reference by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
 
@@ -200,18 +206,7 @@ _Pick one first, practicing, then continue to the other_
 
 # C. Expert
 
-## C.1 CSS3 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-128.png" width="24">
-
-### Prepocessor
-_Mastering one at a time, then you can continue to learn the others_
-* [SASS/SCSS](http://sass-lang.com)
-* [PostCSS](http://postcss.org)
-* [LESS](http://lesscss.org)
-
-### Reference
-* [SASS Guideline](https://sass-guidelin.es)
-
-## C.2 Javascript <img src="https://k60.kn3.net/taringa/2/9/4/9/B/0/22matutex22/CAF.png" width="24">
+## C.1 Javascript <img src="https://k60.kn3.net/taringa/2/9/4/9/B/0/22matutex22/CAF.png" width="24">
 
 ### Front-End Framework
 _Mastering one at a time, then you can continue to learn the others_
@@ -224,7 +219,7 @@ _Mastering one at a time, then you can continue to learn the others_
 * [Meteor](https://www.meteor.com)
 * [MEAN](http://mean.io)
 
-## C.3 PHP <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/320px-PHP-logo.svg.png" width="32">
+## C.2 PHP <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/320px-PHP-logo.svg.png" width="32">
 
 ### Paradigm
 * [Design Patterns](https://github.com/domnikl/DesignPatternsPHP)
@@ -235,7 +230,7 @@ _Mastering one at a time, then you can continue to learn the others_
 * [Symfony](https://symfony.com)
 * [Zend Framework](https://framework.zend.com)
 
-## C.4 Development Principles
+## C.3 Development Principles
 * [UML](http://www.agilemodeling.com/essays/umlDiagrams.htm)
 * [Joel's Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code)
 * [Scrum by Official Scrum Guide](http://www.scrumguides.org/scrum-guide.html)
