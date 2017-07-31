@@ -184,9 +184,9 @@ _Mastering one at a time, they offers similiar goals_
 
 ### Object-Oriented Programming
 _Pick one first, practicing, then continue to the other_
-* [OOP by Official PHP Docs](http://php.net/manual/en/language.oop5.php)
-* [OOP by PHPEnthusiast](http://phpenthusiast.com/object-oriented-php-tutorials)
 * [OOP by Codecademy](https://www.codecademy.com/courses/web-beginner-en-bH5s3/0/1)
+* [OOP by PHPEnthusiast](http://phpenthusiast.com/object-oriented-php-tutorials)
+* [OOP by Official PHP Docs](http://php.net/manual/en/language.oop5.php)
 
 ### Mashup API
 _Pick one first, practicing, then continue to the other_
@@ -242,6 +242,7 @@ _Mastering one at a time, then you can continue to learn the others_
 * [Zend Framework](https://framework.zend.com)
 
 ## C.3 Development Principles
+_Learn them all_
 * [Joel's Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code)
 * [Scrum (Official Guide)](http://www.scrumguides.org/scrum-guide.html)
 * [Software Body of Knowledge](http://www4.ncsu.edu/~tjmenzie/cs510/pdf/SWEBOKv3.pdf)
