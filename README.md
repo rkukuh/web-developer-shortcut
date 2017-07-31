@@ -1,5 +1,7 @@
 # Web Developer Shortcut
 
+<img src="https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/s640x640/e35/sh0.08/11410565_1625205127697464_169583614_n.jpg" align="right" width="400" style="padding: 20px;">
+
 Being a great web developer is a long journey. This guideline, hopefully, could become a shortcut for newcomers.  
 
 While other guide refers to so many resources that overwhelming for most of newbie, this one contains at most 3 most-referenced resources per study category per subject.  
