@@ -254,7 +254,7 @@ _Mastering one at a time, then you can continue to learn the others_
 > <summary>Click here to see</summary><p>
 >
 > ## Certification
-> * [HTML Certification by W3Schools](https://www.w3schools.com/cert/cert_html_new.asp)
+> * [W3Schools' Online Certification Program](https://www.w3schools.com/cert/default.asp)
 > * [Front-End Professional Certificate Program by W3C](https://www.edx.org/professional-certificate/front-end-web-developer-9)
 >
 > ## Nice to Know
