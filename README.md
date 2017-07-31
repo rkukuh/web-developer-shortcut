@@ -34,15 +34,15 @@ So now you can focus on learning instead of picking study subjects.
 
 ## Prerequisites
 
-Before you start coding, make sure that you already installed these required stuff:
+Before you start coding, make sure that you already have installed these stuff:
 
 > <details>
 > <summary>Click here to see Prerequisites</summary><p>
 >
 > ### Web Server
 > _Pick one_
-> * [XAMPP](https://www.apachefriends.org/index.html)
-> * [Valet for Mac only](https://laravel.com/docs/5.4/valet)
+> * [XAMPP (all OS)](https://www.apachefriends.org/index.html)
+> * [Valet (Mac only)](https://laravel.com/docs/5.4/valet)
 >
 > ### Recommended Editor
 > _Pick one_
