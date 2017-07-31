@@ -205,8 +205,9 @@ _Pick one first, practicing, then continue to the other_
 ## B.5 Development Tools
 
 ### Version Control
-* [Git](https://git-scm.com)
-* [Github](https://github.com)
+* Install [Git](https://git-scm.com)
+* Register at [Github](https://github.com)
+* Install [SmartGit](http://www.syntevo.com/smartgit/) or [SourceTree](https://www.sourcetreeapp.com) as Git-client
 
 ### Team Collaboration
 * __Communication__ : [Slack](https://slack.com)
