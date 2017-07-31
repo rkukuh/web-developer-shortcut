@@ -271,6 +271,11 @@ _Mastering one at a time, then you can continue to learn the others_
 >     * [Resources](https://github.com/sorrycc/awesome-javascript)
 > * [PHP](https://github.com/ziadoz/awesome-php)
 > * [MySQL](http://shlomi-noach.github.io/awesome-mysql)
+> * [Laravel](https://github.com/chiraggude/awesome-laravel)
+> * [Symfony 2](https://github.com/theofidry/awesome-symfony2)
+> * [React](https://github.com/enaqx/awesome-react)
+> * [Angular](https://github.com/AngularClass/awesome-angular)
+> * [Vue](https://github.com/vuejs/awesome-vue)
 >
 > ## Future
 > * [HTML 5.2](http://w3c.github.io/html)
