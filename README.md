@@ -67,7 +67,8 @@ _Pick one, then start practicing_
 * __Scoring__ : [How well does your browser support HTML5 ?](http://beta.html5test.com)
 
 ### Reference
-[HTML Cheat Sheet](https://hostingfacts.com/wp-content/uploads/2016/06/hf-html-cheat-sheet.pdf)
+* [HTML Cheat Sheet](https://hostingfacts.com/wp-content/uploads/2016/06/hf-html-cheat-sheet.pdf)
+* [HTML Reference by W3Schools](https://www.w3schools.com/tags/default.asp)
 
 ## A.2 CSS3 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-128.png" width="24">
 
@@ -83,7 +84,8 @@ _Pick one, then start obeying_
 * [Reasonable Standard for CSS Stylesheet Structure](http://rscss.io)
 
 ### Reference
-[CSS / CSS3 Cheat Sheet](https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf)
+* [CSS / CSS3 Cheat Sheet](https://websitesetup.org/wp-content/uploads/2016/10/wsu-css-cheat-sheet.pdf)
+* [CSS Reference by W3Schools](https://www.w3schools.com/cssref/default.asp)
 
 ## A.3 Javascript <img src="https://k60.kn3.net/taringa/2/9/4/9/B/0/22matutex22/CAF.png" width="24">
 
@@ -95,7 +97,7 @@ _Pick one, then start practicing_
 
 ### Reference
 * [JS Cheat Sheet](https://www.cheatography.com/davechild/cheat-sheets/javascript/pdf)
-* [JS Reference by DevDocs](http://devdocs.io/javascript)
+* [JS Reference by W3Schools](https://www.w3schools.com/jsref/default.asp)
 * [JS Reference by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
 ## A.4 PHP <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/320px-PHP-logo.svg.png" width="32">
