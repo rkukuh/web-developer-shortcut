@@ -255,7 +255,7 @@ _Mastering one at a time, then you can continue to learn the others_
 > * [UML](http://www.agilemodeling.com/essays/umlDiagrams.htm)
 > * [Scrum (Official Guide)](http://www.scrumguides.org/scrum-guide.html)
 > * [Domain-Driven Design](https://martinfowler.com/tags/domain%20driven%20design.html)
-> * [Software Body of Knowledge]()
+> * [Software Body of Knowledge](http://www4.ncsu.edu/~tjmenzie/cs510/pdf/SWEBOKv3.pdf)
 > * [Object-Oriented Analysis & Design](http://www.tutorialspoint.com/object_oriented_analysis_design)
 >
 > ## Curated Lists
