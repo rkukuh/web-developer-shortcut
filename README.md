@@ -191,9 +191,9 @@ _Mastering one at a time, they offers similiar goals_
 
 ### Object-Oriented Programming
 _Pick one first, practicing, then continue to the other_
-* [OOP by Codecademy](https://www.codecademy.com/courses/web-beginner-en-bH5s3/0/1)
-* [OOP by PHPEnthusiast](http://phpenthusiast.com/object-oriented-php-tutorials)
 * [OOP by Official PHP Docs](http://php.net/manual/en/language.oop5.php)
+* [OOP by PHPEnthusiast](http://phpenthusiast.com/object-oriented-php-tutorials)
+* [OOP by Codecademy](https://www.codecademy.com/courses/web-beginner-en-bH5s3/0/1)
 
 ### Mashup API
 _Pick one first, practicing, then continue to the other_
