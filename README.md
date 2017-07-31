@@ -283,3 +283,9 @@ _Learn them all_
 > * [You Dont Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
 > </p>
 > </details>
+
+# License
+
+This work is under __[Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/)__ license.
+
+You are free to __Share__ and __Adapt__, but must give credit back to me.
