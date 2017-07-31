@@ -1,6 +1,6 @@
 # Web Developer Shortcut
 
-<img src="https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/s640x640/e35/sh0.08/11410565_1625205127697464_169583614_n.jpg" align="right" width="300" style="padding: 10px;">
+<img src="https://scontent.cdninstagram.com/hphotos-xfa1/t51.2885-15/s640x640/e35/sh0.08/11410565_1625205127697464_169583614_n.jpg" align="right" width="250" style="padding: 10px;">
 
 Being a good web developer take a years and is a long journey.  
 
