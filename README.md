@@ -43,7 +43,7 @@ Before you start coding, make sure that you already installed these required stu
 > * [XAMPP](https://www.apachefriends.org/index.html)
 > * [Valet for Mac only](https://laravel.com/docs/5.4/valet)
 >
-> ### Editor
+> ### Recommended Editor
 > _Pick one_
 > * __Code Editor__ : [Atom by Github](https://atom.io)
 > * __Code Editor__ : [Brackets by Adobe](http://brackets.io)
@@ -106,13 +106,13 @@ _Pick one, then start practicing_
 * [PHP Video Tutorial by thenewboston](https://www.youtube.com/playlist?list=PL442FA2C127377F07)
 
 ### Reference
-* __Official Docs__ : [PHP Docs](http://php.net/manual/en)
+* __Docs__ : [PHP Official Docs](http://php.net/manual/en)
 * __Guideline__ : [PHP The Right Way](http://www.phptherightway.com)
 * __Cheat Sheet__ : [PHP Cheat Sheet](https://www.cheatography.com/davechild/cheat-sheets/php/pdf)
 
 ### Other
-* __Dependency Manager__ : [Composer](https://getcomposer.org)
 * __Packages__ : [The PHP League](https://thephpleague.com)
+* __Dependency Manager__ : [Composer](https://getcomposer.org) | [Yarn](https://yarnpkg.com)
 
 # B. Advanced
 
@@ -145,9 +145,9 @@ _Mastering one at a time, then you can continue to learn the others_
 
 ### Prepocessor
 _Mastering one at a time, then you can continue to learn the others_
-* [SASS/SCSS](http://sass-lang.com)
-* [PostCSS](http://postcss.org)
 * [LESS](http://lesscss.org)
+* [PostCSS](http://postcss.org)
+* [SASS/SCSS](http://sass-lang.com)
 
 ### Reference
 * [SASS Guideline](https://sass-guidelin.es)
@@ -238,8 +238,7 @@ _Mastering one at a time, then you can continue to learn the others_
 ## C.3 Development Principles
 * [Joel's Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code)
 * [Design Patterns](https://github.com/domnikl/DesignPatternsPHP)
-* [Test-Driven Development]
-* [Domain-Driven Development]
+* [Test-Driven Development](http://agiledata.org/essays/tdd.html)
 
 <hr>
 
@@ -255,7 +254,8 @@ _Mastering one at a time, then you can continue to learn the others_
 > ## Nice to Know
 > * [UML](http://www.agilemodeling.com/essays/umlDiagrams.htm)
 > * [Scrum (Official Guide)](http://www.scrumguides.org/scrum-guide.html)
-> * [Software Body of Knowledge]
+> * [Domain-Driven Design](https://martinfowler.com/tags/domain%20driven%20design.html)
+> * [Software Body of Knowledge]()
 > * [Object-Oriented Analysis & Design](http://www.tutorialspoint.com/object_oriented_analysis_design)
 >
 > ## Curated Lists
