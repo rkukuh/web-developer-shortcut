@@ -260,7 +260,7 @@ _Read them all_
 
 This work is under __[Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/)__ license.
 
-You are free to __Share__ and __Adapt__, but __must__ give credit back to me.
+You are free to __share__ and __adapt__, but __MUST__ give credit back to me.
 
 # Appendix
 
