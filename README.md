@@ -188,9 +188,9 @@ _Pick one first, practicing, then continue to the other_
 
 ### Mashup API
 _Pick one first, practicing, then continue to the other_
+* [OAuth](https://oauth.net)
 * [Google API](https://developers.google.com)
 * [Facebook API](https://developers.facebook.com)
-* [REST API Development]
 
 ### Testing
 _Pick one first, practicing, then continue to the other_
@@ -230,10 +230,6 @@ _Mastering one at a time, then you can continue to learn the others_
 
 ## C.2 PHP <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/320px-PHP-logo.svg.png" width="32">
 
-### Paradigm
-* [OAuth](https://oauth.net)
-* [Design Patterns](https://github.com/domnikl/DesignPatternsPHP)
-
 ### Framework
 _Mastering one at a time, then you can continue to learn the others_
 * [Laravel](https://laravel.com)
@@ -241,13 +237,10 @@ _Mastering one at a time, then you can continue to learn the others_
 * [Zend Framework](https://framework.zend.com)
 
 ## C.3 Development Principles
-* [UML](http://www.agilemodeling.com/essays/umlDiagrams.htm)
 * [Joel's Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code)
-* [Scrum (Official Guide)](http://www.scrumguides.org/scrum-guide.html)
+* [Design Patterns](https://github.com/domnikl/DesignPatternsPHP)
 * [Test-Driven Development]
 * [Domain-Driven Development]
-* [Software Body of Knowledge]
-* [Object-Oriented Analysis & Design](http://www.tutorialspoint.com/object_oriented_analysis_design)
 
 <hr>
 
@@ -259,6 +252,12 @@ _Mastering one at a time, then you can continue to learn the others_
 > ## Certification
 > * [HTML Certification by W3Schools](https://www.w3schools.com/cert/cert_html_new.asp)
 > * [Front-End Professional Certificate Program by W3C](https://www.edx.org/professional-certificate/front-end-web-developer-9)
+>
+> ## Nice to Know
+> * [UML](http://www.agilemodeling.com/essays/umlDiagrams.htm)
+> * [Scrum (Official Guide)](http://www.scrumguides.org/scrum-guide.html)
+> * [Software Body of Knowledge]
+> * [Object-Oriented Analysis & Design](http://www.tutorialspoint.com/object_oriented_analysis_design)
 >
 > ## Curated Lists
 > * [HTML5](https://github.com/diegocard/awesome-html5)
