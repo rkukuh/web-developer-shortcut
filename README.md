@@ -26,6 +26,7 @@ So now you can focus on learning instead of picking study subjects.
 >     * C.1 [Javascript](#c1-javascript-)
 >     * C.2 [PHP](#c2-php-)
 >     * C.3 [Development Principles](#c3-development-principles)
+> * [License](#License)
 > * [Appendix](#appendix)
 > </p>
 > </details>
@@ -247,6 +248,12 @@ _Learn them all_
 * [Scrum (Official Guide)](http://www.scrumguides.org/scrum-guide.html)
 * [Software Body of Knowledge](http://www4.ncsu.edu/~tjmenzie/cs510/pdf/SWEBOKv3.pdf)
 
+# License
+
+This work is under __[Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/)__ license.
+
+You are free to __Share__ and __Adapt__, but __must__ give credit back to me.
+
 <hr>
 
 # Appendix
@@ -283,9 +290,3 @@ _Learn them all_
 > * [You Dont Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
 > </p>
 > </details>
-
-# License
-
-This work is under __[Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/)__ license.
-
-You are free to __Share__ and __Adapt__, but must give credit back to me.
