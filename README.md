@@ -244,7 +244,9 @@ _Mastering one at a time, then you can continue to learn the others_
 * [UML](http://www.agilemodeling.com/essays/umlDiagrams.htm)
 * [Joel's Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code)
 * [Scrum (Official Guide)](http://www.scrumguides.org/scrum-guide.html)
-* [Functional Programming]
+* [Test-Driven Development]
+* [Domain-Driven Development]
+* [Software Body of Knowledge]
 * [Object-Oriented Analysis & Design](http://www.tutorialspoint.com/object_oriented_analysis_design)
 
 <hr>
