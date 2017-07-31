@@ -197,6 +197,9 @@ _Pick one first, practicing, then continue to the other_
 * [PHP Unit](https://phpunit.de)
 * [Behat](http://behat.org/en/latest/)
 
+### Design Pattern
+[PHP Design Patterns](https://github.com/domnikl/DesignPatternsPHP)
+
 ## B.5 Development Tools
 
 ### Version Control
@@ -237,8 +240,8 @@ _Mastering one at a time, then you can continue to learn the others_
 
 ## C.3 Development Principles
 * [Joel's Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code)
-* [Design Patterns](https://github.com/domnikl/DesignPatternsPHP)
-* [Test-Driven Development](http://agiledata.org/essays/tdd.html)
+* [Scrum (Official Guide)](http://www.scrumguides.org/scrum-guide.html)
+* [Software Body of Knowledge](http://www4.ncsu.edu/~tjmenzie/cs510/pdf/SWEBOKv3.pdf)
 
 <hr>
 
@@ -253,9 +256,8 @@ _Mastering one at a time, then you can continue to learn the others_
 >
 > ## Nice to Know
 > * [UML](http://www.agilemodeling.com/essays/umlDiagrams.htm)
-> * [Scrum (Official Guide)](http://www.scrumguides.org/scrum-guide.html)
 > * [Domain-Driven Design](https://martinfowler.com/tags/domain%20driven%20design.html)
-> * [Software Body of Knowledge](http://www4.ncsu.edu/~tjmenzie/cs510/pdf/SWEBOKv3.pdf)
+> * [Test-Driven Development](http://agiledata.org/essays/tdd.html)
 > * [Object-Oriented Analysis & Design](http://www.tutorialspoint.com/object_oriented_analysis_design)
 >
 > ## Curated Lists
