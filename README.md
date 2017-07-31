@@ -258,10 +258,10 @@ _Read them all_
 
 # License
 
-This work is under __[Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/)__ license.  
+This work is under [Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/) license.  
 You are free to __share__ and __adapt__, but __MUST__ give credit back to me.  
 
-The cute "Surabaya" city icon image above is taken from [here](http://www.imgrum.org/media/1021770744169286352_701246585).
+The cute "Surabaya" city icon above is taken from [here](http://www.imgrum.org/media/1021770744169286352_701246585).
 
 # Appendix
 
