@@ -203,6 +203,12 @@ _Pick one first, practicing, then continue to the other_
 * [Git](https://git-scm.com)
 * [Github](https://github.com)
 
+### Team Collaboration
+* __Task Management__ : [Trello]
+* __Communication__ : [Slack]
+* __Project Management__ (paid) : [JIRA]
+* __Project Management__ (freemium) : [Basecamp]
+
 ### Continuous Integration
 * [Travis CI](https://travis-ci.org)
 * [Jenkins](https://jenkins.io)
