@@ -26,7 +26,7 @@ So now you can focus on learning instead of picking study subjects.
 >     * C.1 [Javascript](#c1-javascript-)
 >     * C.2 [PHP](#c2-php-)
 >     * C.3 [Development Principles](#c3-development-principles)
-> * [License](#License)
+> * [License](#license)
 > * [Appendix](#appendix)
 > </p>
 > </details>
