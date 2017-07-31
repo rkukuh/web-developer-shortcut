@@ -13,18 +13,18 @@ This guide, hopefully, could become a shortcut for newcomers. So now you can foc
 > <details>
 > <summary>Click here to see ToC</summary><p>
 >
-> * A. [Fundamental](#a-fundamental)
+> * A. [Fundamental](#a-fundamental-)
 >     * A.1 [HTML5](#a1-html5-)
 >     * A.2 [CSS3](#a2-css3-)
 >     * A.3 [Javascript](#a3-javascript-)
 >     * A.4 [PHP](#a4-php-)
-> * B. [Advanced](#b-advanced)
+> * B. [Advanced](#b-advanced-)
 >     * B.1 [HTML5](#b1-html5-)
 >     * B.2 [CSS3](#b2-css3-)
 >     * B.3 [Javascript](#b3-javascript-)
 >     * B.4 [PHP](#b4-php-)
 >     * B.5 [Development Tools](#b5-development-tools)
-> * C. [Expert](#c-expert)
+> * C. [Expert](#c-expert-)
 >     * C.1 [Javascript](#c1-javascript-)
 >     * C.2 [PHP](#c2-php-)
 >     * C.3 [Development Principles](#c3-development-principles)
