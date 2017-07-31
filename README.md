@@ -56,6 +56,8 @@ Before you start coding, make sure that you already have installed these stuff:
 > </p>
 > </details>
 
+<hr>
+
 # A. Fundamental <img src="http://www.iconeasy.com/icon/32/System/Pretty%20Office%207/Metal%20bronze%20blue.png">
 
 ## A.1 HTML5 <img src="https://image.flaticon.com/icons/png/128/226/226269.png" width="24">
@@ -118,6 +120,8 @@ _Pick one, then start practicing_
 ### Other
 * __Packages__ : [The PHP League](https://thephpleague.com)
 * __Dependency Manager__ : [Composer](https://getcomposer.org) | [Yarn](https://yarnpkg.com)
+
+<hr>
 
 # B. Advanced <img src="http://www.iconeasy.com/icon/32/System/Pretty%20Office%207/Metal%20silver%20green.png">
 
@@ -221,6 +225,8 @@ _Pick one first, practicing, then continue to the other_
 * [Travis CI](https://travis-ci.org)
 * [Jenkins](https://jenkins.io)
 
+<hr>
+
 # C. Expert <img src="http://www.iconeasy.com/icon/32/System/Pretty%20Office%207/Metal%20gold%20red.png">
 
 ## C.1 Javascript <img src="https://k60.kn3.net/taringa/2/9/4/9/B/0/22matutex22/CAF.png" width="24">
@@ -255,8 +261,6 @@ _Learn them all_
 This work is under __[Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/)__ license.
 
 You are free to __Share__ and __Adapt__, but __must__ give credit back to me.
-
-<hr>
 
 # Appendix
 
