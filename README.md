@@ -204,9 +204,9 @@ _Pick one first, practicing, then continue to the other_
 * [Github](https://github.com)
 
 ### Team Collaboration
-* __Communication__ : [Slack]
-* __Task Management__ : [Trello] | [Asana]
-* __Project Management__ : [Basecamp] (freemium) | [JIRA] (paid)
+* __Communication__ : [Slack](https://slack.com)
+* __Task Management__ : [Trello](https://trello.com) | [Asana](https://asana.com)
+* __Project Management__ : [Basecamp](https://basecamp.com) (freemium) | [JIRA](https://www.atlassian.com/software/jira) (paid)
 
 ### Continuous Integration
 * [Travis CI](https://travis-ci.org)
