@@ -209,12 +209,13 @@ _Pick one first, practicing, then continue to the other_
 ### Design Pattern
 [PHP Design Patterns](https://github.com/domnikl/DesignPatternsPHP)
 
-## B.5 Development Tools
+## B.5 Development Flow
 
 ### Version Control
 * Install [Git](https://git-scm.com)
 * Register at [Github](https://github.com)
-* Install [SmartGit](http://www.syntevo.com/smartgit/) or [SourceTree](https://www.sourcetreeapp.com) as Git-client
+* Install [SmartGit](http://www.syntevo.com/smartgit/) as git-client
+* Read [Git Tutorial by Atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control) or practice [Interactive Git Tutorial by Github](https://try.github.io/levels/1/challenges/1) 
 
 ### Team Collaboration
 * __Communication__ : [Slack](https://slack.com)
