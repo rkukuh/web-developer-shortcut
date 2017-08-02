@@ -23,7 +23,7 @@ This guide, hopefully, could become a shortcut for newcomers. So now you can foc
 >     * B.2 [CSS3](#b2-css3-)
 >     * B.3 [Javascript](#b3-javascript-)
 >     * B.4 [PHP](#b4-php-)
->     * B.5 [Development Tools](#b5-development-tools)
+>     * B.5 [Development Flow](#b5-development-flow)
 > * C. [Expert](#c-expert-)
 >     * C.1 [Javascript](#c1-javascript-)
 >     * C.2 [PHP](#c2-php-)
