@@ -214,8 +214,8 @@ _Pick one first, practicing, then continue to the other_
 ### Version Control
 * Install [Git](https://git-scm.com)
 * Register at [Github](https://github.com)
-* Install [SmartGit](http://www.syntevo.com/smartgit/) as git-client
-* Read [Git Tutorial by Atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control) or practice [Interactive Git Tutorial by Github](https://try.github.io/levels/1/challenges/1) 
+* Install one [Git Client](https://git-scm.com/downloads/guis/) (I would like to recommend [SmartGit](http://www.syntevo.com/smartgit/))
+* Read [Git Tutorial by Atlassian](https://www.atlassian.com/git/tutorials/what-is-version-control) or practice [Interactive Git Tutorial by Github](https://try.github.io/levels/1/challenges/1)
 
 ### Team Collaboration
 * __Communication__ : [Slack](https://slack.com)
