@@ -276,6 +276,7 @@ The cute "Surabaya" city icon above is taken from [here](http://www.imgrum.org/m
 > ## Nice to Know
 > * [UML](http://www.agilemodeling.com/essays/umlDiagrams.htm)
 > * [Domain-Driven Design](https://martinfowler.com/tags/domain%20driven%20design.html)
+> * [Web Standard by Google](https://developers.google.com/web/)
 > * [Test-Driven Development](http://agiledata.org/essays/tdd.html)
 > * [Object-Oriented Analysis & Design](http://www.tutorialspoint.com/object_oriented_analysis_design)
 >
