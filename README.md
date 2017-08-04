@@ -183,9 +183,9 @@ _Mastering one at a time, they offers similiar goals_
 * [Jasmine](https://jasmine.github.io)
 
 ### Reference
-* [ES2015](https://babeljs.io/learn-es2015)
-* [EcmaScript 6](http://es6-features.org)
+* [EcmaScript 6 Features](http://es6-features.org)
 * [The State of Javascript](http://stateofjs.com/2016/introduction/)
+* [EcmaScript Comparison Table](http://kangax.github.io/compat-table/es6)
 
 ## B.4 PHP <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/320px-PHP-logo.svg.png" width="32">
 
