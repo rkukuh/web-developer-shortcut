@@ -58,7 +58,7 @@ Before you start coding, make sure that you already have installed these stuff:
 
 <hr>
 
-# A. Fundamental <img src="https://i.psnprofiles.com/games/a5d028/trophies/63Lcf69d5.png" width="48" align="middle">
+# A. Fundamental <img src="https://i.psnprofiles.com/games/a5d028/trophies/63Lcf69d5.png" width="48" align="middle" style="border: 1px solid red;">
 
 ## A.1 HTML5 <img src="https://image.flaticon.com/icons/png/128/226/226269.png" width="24">
 
