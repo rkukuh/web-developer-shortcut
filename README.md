@@ -58,7 +58,7 @@ Before you start coding, make sure that you already have installed these stuff:
 
 <hr>
 
-# A. Fundamental <img src="https://i.psnprofiles.com/games/a5d028/trophies/63Lcf69d5.png" width="48">
+# A. Fundamental <img src="https://i.psnprofiles.com/games/a5d028/trophies/63Lcf69d5.png" width="48" align="middle">
 
 ## A.1 HTML5 <img src="https://image.flaticon.com/icons/png/128/226/226269.png" width="24">
 
@@ -105,7 +105,7 @@ _Pick one, then start practicing_
 * [JS Reference by W3Schools](https://www.w3schools.com/jsref/default.asp)
 * [JS Reference by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
-## A.4 PHP <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/320px-PHP-logo.svg.png" width="32">
+## A.4 PHP <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/320px-PHP-logo.svg.png" width=""48" align="middle">
 
 ### Tutorial
 _Pick one, then start practicing_
@@ -228,7 +228,7 @@ _Pick one first, practicing, then continue to the other_
 
 <hr>
 
-# C. Expert <img src="https://i.psnprofiles.com/games/a5d028/trophies/65Ld40ed3.png" width="64">
+# C. Expert <img src="https://i.psnprofiles.com/games/a5d028/trophies/65Ld40ed3.png" width=""48" align="middle">
 
 ## C.1 Javascript <img src="https://k60.kn3.net/taringa/2/9/4/9/B/0/22matutex22/CAF.png" width="24">
 
