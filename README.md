@@ -58,7 +58,7 @@ Before you start coding, make sure that you already have installed these stuff:
 
 <hr>
 
-# A. Fundamental <img src="https://i.psnprofiles.com/games/a5d028/trophies/63Lcf69d5.png" width="48" align="middle" style="border: 1px solid red;">
+# A. Fundamental <img src="http://www.iconeasy.com/icon/32/System/Pretty%20Office%207/Metal%20bronze%20blue.png">
 
 ## A.1 HTML5 <img src="https://image.flaticon.com/icons/png/128/226/226269.png" width="24">
 
@@ -123,7 +123,7 @@ _Pick one, then start practicing_
 
 <hr>
 
-# B. Advanced <img src="https://i.psnprofiles.com/games/a5d028/trophies/64Le76eb4.png" width="48" align="middle">
+# B. Advanced <img src="http://www.iconeasy.com/icon/32/System/Pretty%20Office%207/Metal%20silver%20green.png">
 
 ## B.1 HTML5 <img src="https://image.flaticon.com/icons/png/128/226/226269.png" width="24">
 
@@ -228,7 +228,7 @@ _Pick one first, practicing, then continue to the other_
 
 <hr>
 
-# C. Expert <img src="https://i.psnprofiles.com/games/a5d028/trophies/65Ld40ed3.png" width="48" align="middle">
+# C. Expert <img src="http://www.iconeasy.com/icon/32/System/Pretty%20Office%207/Metal%20gold%20red.png">
 
 ## C.1 Javascript <img src="https://k60.kn3.net/taringa/2/9/4/9/B/0/22matutex22/CAF.png" width="24">
 
