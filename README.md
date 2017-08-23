@@ -105,7 +105,7 @@ _Pick one, then start practicing_
 * [JS Reference by W3Schools](https://www.w3schools.com/jsref/default.asp)
 * [JS Reference by Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 
-## A.4 PHP <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/320px-PHP-logo.svg.png" width=""48" align="middle">
+## A.4 PHP <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/320px-PHP-logo.svg.png" width="32">
 
 ### Tutorial
 _Pick one, then start practicing_
@@ -123,7 +123,7 @@ _Pick one, then start practicing_
 
 <hr>
 
-# B. Advanced <img src="https://i.psnprofiles.com/games/a5d028/trophies/64Le76eb4.png" width="64">
+# B. Advanced <img src="https://i.psnprofiles.com/games/a5d028/trophies/64Le76eb4.png" width=""48" align="middle">
 
 ## B.1 HTML5 <img src="https://image.flaticon.com/icons/png/128/226/226269.png" width="24">
 
@@ -228,7 +228,7 @@ _Pick one first, practicing, then continue to the other_
 
 <hr>
 
-# C. Expert <img src="https://i.psnprofiles.com/games/a5d028/trophies/65Ld40ed3.png" width=""48" align="middle">
+# C. Expert <img src="https://i.psnprofiles.com/games/a5d028/trophies/65Ld40ed3.png" width="64">
 
 ## C.1 Javascript <img src="https://k60.kn3.net/taringa/2/9/4/9/B/0/22matutex22/CAF.png" width="24">
 
